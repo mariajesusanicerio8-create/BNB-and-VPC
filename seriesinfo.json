@@ -1,0 +1,1022 @@
+[
+ {
+  "codeName": "Thrasher",
+  "features": [],
+  "ksp": [],
+  "note": "HP Asset Manager has product images for this model but no specification documents; platform specs come from the source named below.",
+  "options": [
+   "HDMI",
+   "VGA",
+   "USB-C",
+   "Power + serial",
+   "Dual serial",
+   "Dual USB 3.0",
+   "External antenna",
+   "Fiber NIC (LC)",
+   "Fiber NIC (SC)"
+  ],
+  "optionsSource": "HP Asset Manager product images (rear I/O option views, codename Thrasher)",
+  "overview": null,
+  "platform": {
+   "audio": "Internal amplified speaker",
+   "dimensions": "3.5 x 20 x 20 cm (W x D x H, vertical)",
+   "graphics": "Integrated AMD Radeon graphics",
+   "memorySlots": "2 SODIMM (DDR4-3200)",
+   "portsFront": "1 USB-A 5Gbps, 1 USB-A 10Gbps, 1 headset jack",
+   "portsRear": "2 USB-A 5Gbps, 2 USB-A 10Gbps, 3 DisplayPort 1.2, 1 RJ-45, 1 audio in/out",
+   "processorDetail": "AMD Ryzen Embedded R2314 (4 cores / 4 threads, up to 3.5 GHz, 2 MB L2)",
+   "protocols": "Citrix HDX, Microsoft RDP/RFX, VMware Horizon (RDP/PCoIP)",
+   "psu": "HP Smart 45 W external AC adapter",
+   "weight": "1.12 kg; 1.17 kg with stand (varies by configuration)"
+  },
+  "platformSource": "HP product specifications page (hp.com) for HP Elite t655 Thin Client 76C46PA",
+  "source": null,
+  "updatedAt": "2026-10-12",
+  "id": "TC_Elite-t655"
+ },
+ {
+  "codeName": "Tinamou",
+  "features": [],
+  "ksp": [],
+  "note": "HP Asset Manager has product images for this model but no specification documents; platform specs come from the source named below.",
+  "options": [
+   "HDMI",
+   "VGA",
+   "USB-C",
+   "Power + serial",
+   "Dual serial",
+   "Dual USB 3.0",
+   "External antenna",
+   "Fiber NIC (LC)",
+   "Fiber NIC (SC)"
+  ],
+  "optionsSource": "HP Asset Manager product images (rear I/O option views, codename Tinamou)",
+  "overview": null,
+  "platform": {
+   "audio": "Built-in speaker",
+   "dimensions": "3.5 x 20 x 20 cm (W x D x H)",
+   "graphics": "Intel UHD Graphics",
+   "memorySlots": "2 SODIMM (DDR5-5600)",
+   "network": "Realtek RTL8111HSH Gigabit Ethernet",
+   "portsFront": "2 USB 3.2 Gen 1, 1 USB4 (power delivery, video, data), 1 audio jack",
+   "portsRear": "1 USB 3.2 Gen 1, 1 USB 3.2 Gen 2, 2 USB 2.0, 3 DisplayPort 1.4, 1 RJ-45, 1 audio in/out",
+   "processorDetail": "Intel U300E (5 cores, up to 4.3 GHz, 8 MB L3)",
+   "protocols": "PCoIP, Microsoft RDP, Citrix HDX, VMware Horizon, Microsoft AVD",
+   "psu": "HP Smart 45 W external AC adapter",
+   "weight": "1.15 kg; 1.2 kg with stand"
+  },
+  "platformSource": "Reseller listing (SHI) for HP Elite t660 Thin Client C1TC5UT — not an HP document; verify before quoting",
+  "source": null,
+  "updatedAt": "2026-10-12",
+  "id": "TC_Elite-t660"
+ },
+ {
+  "codeName": "Puffin",
+  "features": [],
+  "ksp": [],
+  "note": "HP Asset Manager has product images for this model but no specification documents; platform specs come from the source named below.",
+  "options": [
+   "Fiber NIC (PCIe)",
+   "Antenna I/O",
+   "Audio I/O",
+   "Graphics card (PCIe)",
+   "Serial port I/O"
+  ],
+  "optionsSource": "HP Asset Manager product images (rear I/O option views, codename Puffin)",
+  "overview": null,
+  "platform": {
+   "audio": "Internal amplified speaker",
+   "dimensions": "5 x 21 x 21 cm (W x D x H, vertical)",
+   "expansion": "1 half-height PCIe x16 slot (x8 electrical)",
+   "graphics": "Integrated AMD Radeon graphics",
+   "memorySlots": "2 SODIMM (DDR4-3200)",
+   "network": "Realtek RTL8111HSH Gigabit Ethernet",
+   "portsFront": "1 USB-C 10Gbps, 2 USB-A 5Gbps",
+   "portsRear": "2 USB-A 5Gbps, 2 USB 2.0, 4 DisplayPort 1.4, 1 RJ-45, security lock slot",
+   "processorDetail": "AMD Ryzen Embedded V2546 (6 cores / 12 threads, up to 3.95 GHz, 8 MB L3)",
+   "protocols": "Citrix HDX/ICA, VMware Horizon (RDP, PCoIP, Blast Extreme), Amazon WorkSpaces, RDS RemoteFX, RDP, Azure Virtual Desktop, Windows 365",
+   "psu": "HP 90 W smart external adapter",
+   "weight": "1.4 kg (varies by configuration)"
+  },
+  "platformSource": "HP product specifications page (hp.com) for HP Elite t755 Thin Client 9J3W7AA",
+  "source": null,
+  "updatedAt": "2026-10-12",
+  "id": "TC_Elite-t755"
+ },
+ {
+  "codeName": "Waxwing",
+  "features": [],
+  "ksp": [],
+  "note": "HP Asset Manager has product images for this model but no specification documents; platform specs come from the source named below.",
+  "options": [
+   "USB",
+   "Antenna",
+   "HDMI",
+   "USB-C",
+   "VGA"
+  ],
+  "optionsSource": "HP Asset Manager product images (rear I/O option views, codename Waxwing)",
+  "overview": null,
+  "platform": {
+   "audio": "Internal amplified speaker",
+   "dimensions": "3.5 x 20 x 20 cm",
+   "graphics": "Intel UHD Graphics (up to 3 displays, 4K)",
+   "memorySlots": "1 SODIMM (DDR5-5600)",
+   "portsFront": "1 USB-C 10Gbps, 2 USB-A 5Gbps, 1 headset jack",
+   "portsRear": "2 USB-A 10Gbps, 2 USB-A 480Mbps, 2 DisplayPort 1.4, 1 RJ-45",
+   "processorDetail": "Intel Processor N97 (4 cores, up to 3.6 GHz, 6 MB L3)",
+   "protocols": "Citrix HDX/ICA, VMware Horizon (RDP/PCoIP, Blast Extreme), RDS RemoteFX, RDP",
+   "psu": "65 W external power adapter",
+   "security": "HP Tamper Lock, HP Secure Erase, HP Sure Admin, HP Sure Recover, HP Sure Start",
+   "weight": "1.3 kg (varies by configuration)"
+  },
+  "platformSource": "HP data sheet for HP ProDesk 5 G1i Thin Client D79A7UT (HP Dynamic Collateral Tool, via Ingram Micro)",
+  "source": null,
+  "updatedAt": "2026-10-12",
+  "id": "TC_ProDesk-5_G1i"
+ },
+ {
+  "codeName": "TangledZ",
+  "features": [
+   {
+    "h": "Operating System",
+    "t": "Support your unique user needs with the Windows 11 Pro operating system."
+   },
+   {
+    "h": "Intel® Core™ Ultra Processors",
+    "t": "Unleash power-efficient performance with up to an Intel ® Core™ Ultra 9 CPU. This CPU not only unlocks performance for the next era of AI-enhanced software, but the dedicated NPU greatly increases efficiency for productivity tasks."
+   },
+   {
+    "h": "Graphics",
+    "t": "Work seamlessly with choice of graphics: NVIDIA RTX™, AMD Radeon RX™, or Intel® Arc GPUs."
+   },
+   {
+    "h": "Memory",
+    "t": "High speed memory for near real-time responsiveness with up to fast data transfer speeds of up to 5600 MT/s and up to 128 GB DDR5 memory"
+   },
+   {
+    "h": "Storage",
+    "t": "Make storage simple with up to 10TB with 3 M.2 storage slots and RAID for added performance and reliability."
+   },
+   {
+    "h": "Flexible I/O Modules",
+    "t": "Configure to the needs of today with flexibility for the future with up to two flexible I/O ports and nine I/O options."
+   },
+   {
+    "h": "Fast and efficient Wi-Fi 7",
+    "t": "The portability of your PC and the reliability of a fast connection determines where you can work. Get a fast and reliable connection in dense wireless environments with gigabit data rate Wi-Fi 7.,"
+   },
+   {
+    "h": "Independent Software Vendor Certifications",
+    "t": "Work with confidence knowing your PC is certified by leading software vendors to ensure peak performance even on complex projects."
+   },
+   {
+    "h": "Protected by HP Wolf Security.",
+    "t": "HP Wolf Security for Business creates a hardware-enforced, always-on, resilient defense. From the BIOS to the browser, above, in, and below the OS, these constantly evolving solutions help protect your PC from modern threats."
+   },
+   {
+    "h": "Network Connectivity",
+    "t": "Connect and collaborate quickly with up to 10Gb Ethernet interface."
+   },
+   {
+    "h": "Reliability",
+    "t": "Rely on a PC that gives its all, all day long. Experience optimized performance for pro-apps and 120K hours of testing — reliability that gives your PC the power to cool components so it can keep running."
+   },
+   {
+    "h": "Thermal Management",
+    "t": "Innovatively designed with hardware components like smart fan control and new lattice design venting to keep your PC cool and quiet no matter how hard you push it. Have confidence to run your system at max load."
+   },
+   {
+    "h": "Power Supply",
+    "t": "Multiple PSU options, including the 500W PSU that support the highest power CPU and GPU rich configurations."
+   },
+   {
+    "h": "Disinfectable",
+    "t": "Designed to be wiped down using many commonly available household disinfecting and cleaning wipes using the HP cleaning guidelines."
+   },
+   {
+    "h": "Several Easily Accessible Ports",
+    "t": "Connect with confidence to all your devices with a tower that's packed with several easily accessible ports."
+   },
+   {
+    "h": "Military Standards Testing",
+    "t": "Designed for ultimate durability, this tower desktop undergoes rigorous MIL-STD 810H tests to help ensure this PC keeps rolling through your workday."
+   },
+   {
+    "h": "Tool-less Access",
+    "t": "Evolve your work. With tool-less access to the interior, you can customize your Z to fit your needs.in"
+   }
+  ],
+  "ksp": [
+   {
+    "h": "Workstation performance. Impressive expandability.",
+    "t": "Effortlessly multitask with up to an Intel® Core™ Ultra 9 CPU and 128GB memory. Choose from NVIDIA RTX™, AMD Radeon RX™, or Intel® Arc GPUs. Easily upgrade memory and storage as work evolves with tool-less access."
+   },
+   {
+    "h": "Certified for your workflow",
+    "t": "Work confidently knowing your HP Z1 Tower is tested and certified for select professional apps. We've worked closely with software providers on apps like AutoCAD®, SOLIDWORKS® and Siemens NX® for seamless workstation performance across your workflow. 4"
+   },
+   {
+    "h": "Power AI-accelerated workflows",
+    "t": "Accelerate AI workflows with the HP Z1 Tower. Iterate and problem solve faster on your local device with up to an NVIDIA RTX™ A1000 GPU delivering up to 107 AI TOPS. A built-in NPU efficiently takes on productivity tasks."
+   },
+   {
+    "h": "Designed with purpose /",
+    "t": "The EPEAT® Gold with Climate+ HP Z1 Tower G1i Desktop PC comes in packaging with certified or recycled sources of paper.9"
+   }
+  ],
+  "overview": {
+   "h": "The most affordable HP Z desktop workstation",
+   "t": "Workstation performance is now within reach with a tower built for designing, editing, and even gaming. Go beyond a commercial PC with the HP Z1 Tower, delivering pro-level, expandable performance certified for pro-apps, with support for high-end graphics."
+  },
+  "source": "HP Asset Manager: HP Z1 Tower G1i TangledZ Updated 05 25 Source Messaging and ",
+  "updatedAt": "2026-10-12",
+  "id": "Z1-Tower_G1i"
+ },
+ {
+  "codeName": "Mint",
+  "features": [],
+  "ksp": [],
+  "note": "HP Asset Manager lists the Z2 Mini G1a source-messaging document, but it is not downloadable with your account.",
+  "overview": null,
+  "source": null,
+  "updatedAt": "2026-10-12",
+  "id": "Z2-Mini_G1a"
+ },
+ {
+  "codeName": "Turmeric",
+  "features": [
+   {
+    "h": "Operating System",
+    "t": "Support your unique user needs with a choice of Windows 11 Pro, WSL or Linux® operating systems."
+   },
+   {
+    "h": "Intel® Core™ Ultra Processors",
+    "t": "Unleash power-efficient performance with up to an Intel ® Core™ Ultra 9 CPU. This CPU not only unlocks performance for the next era of AI-enhanced software, but the dedicated NPU greatly increases efficiency for productivity tasks."
+   },
+   {
+    "h": "Professional Graphics",
+    "t": "Design, render, ray-trace and even work on small datasets seamlessly with up to an NVIDIA RTX PRO™ 6000 Blackwell Workstation Edition GPU and powerful support for triple wide and 600W graphics."
+   },
+   {
+    "h": "Memory",
+    "t": "High speed memory for near real-time responsiveness with up to fast data transfer speeds of up to 5600 MT/s and up to 256 GB DDR5 memory"
+   },
+   {
+    "h": "Storage",
+    "t": "Get up to 36TB total storage capacity (12TB with 3x NVMe and 24TB with 2x HDD) and RAID data storage capabilities for added performance or reliability."
+   },
+   {
+    "h": "Flexible I/O Modules",
+    "t": "Configure to the needs of today with flexibility for the future with a flexible I/O port having 14 I/O options."
+   },
+   {
+    "h": "Multi-Display Support",
+    "t": "See all your windows in perfect detail with support for up to 12 displays at 4K resolution"
+   },
+   {
+    "h": "Fast and efficient Wi-Fi 7",
+    "t": "The portability of your PC and the reliability of a fast connection determines where you can work. Get a fast and reliable connection in dense wireless environments with gigabit data rate Wi-Fi 7.,"
+   },
+   {
+    "h": "Independent Software Vendor Certifications",
+    "t": "Work with confidence knowing your workstation is certified by leading software vendors to ensure peak performance even on complex projects."
+   },
+   {
+    "h": "Protected by HP Wolf Security",
+    "t": "HP Wolf Security for Business creates a hardware-enforced, always-on, resilient defense. From the BIOS to the browser, above, in, and below the OS, these constantly evolving solutions help protect your PC from modern threats."
+   },
+   {
+    "h": "HP Smart Sense",
+    "t": "HP Smart Sense intelligently optimizes your PC’s thermal and power management based on your usage. Select high performance mode when completing demanding tasks to maximize performance."
+   },
+   {
+    "h": "Network Connectivity",
+    "t": "Connect and collaborate quickly with up to 10Gb Ethernet interface."
+   },
+   {
+    "h": "Rackable Design",
+    "t": "Well suited for rack environments, now fit 1 unit in a 4U rack."
+   },
+   {
+    "h": "Reliability",
+    "t": "Rely on a PC that gives its all, all day long. Experience optimized performance for pro-apps and 360K hours of testing — reliability that gives your workstation the power to cool components so it can keep running."
+   },
+   {
+    "h": "Thermal Management",
+    "t": "Innovatively designed with hardware components like smart fan control and new lattice design venting to keep your PC cool and quiet no matter how hard you push it. Have confidence to run your system at max load."
+   },
+   {
+    "h": "Power Supply",
+    "t": "Multiple PSU options, including the 1200W PSU that support the highest power CPU- and GPU-rich configurations."
+   },
+   {
+    "h": "Disinfectable",
+    "t": "Designed to be wiped down using many commonly available household disinfecting and cleaning wipes using the HP cleaning guidelines."
+   },
+   {
+    "h": "Several Easily Accessible Ports",
+    "t": "Connect with confidence to all your devices with a tower workstation that's packed with several easily accessible ports."
+   },
+   {
+    "h": "Military Standards Testing",
+    "t": "Designed for ultimate durability, this tower desktop workstation undergoes rigorous MIL-STD 810H tests to help ensure this PC keeps rolling through your workday."
+   },
+   {
+    "h": "High Performance Mode",
+    "t": "Take on the toughest workflows with High Performance Mode set as the default. Easily change to Performance Mode, Quiet Mode, or Rack Mode with a BIOS setting."
+   },
+   {
+    "h": "Tool-less Access",
+    "t": "Evolve your work. With tool-less access to the interior, you can customize your Z to fit your needs."
+   }
+  ],
+  "ksp": [
+   {
+    "h": "Reengineered performance. Refined cooling.",
+    "t": "Unleash the power of up to 600W, triple-wide graphics and a 24 core Intel® Core™ Ultra 9 processor, including K-Series, on intense multi-threaded apps. Smart fan control tunes fan speeds in real-time. New lattice venting optimizes airflow intake."
+   },
+   {
+    "h": "Built to expand. Power to grow.",
+    "t": "Need to upgrade graphics? Increase memory or storage?2 Add specialized PCIe cards? With room to expand and tool-less access, you can easily upgrade and add components as needs evolve. Well suited for rack environments, now fit 1 unit in a 4U rack.3"
+   },
+   {
+    "h": "Power AI-accelerated workflows",
+    "t": "Accelerate AI inferencing and development. Iterate and problem solve faster on your local device with up to an NVIDIA RTX PRO™ 6000 Blackwell Workstation Edition GPU. A built-in NPU efficiently takes on productivity tasks."
+   },
+   {
+    "h": "Designed with purpose",
+    "t": "The Z2 Tower G1i contains 60% recycled plastics and 20% recycled steel, comes in packaging with certified or recycled sources of paper, and is EPEAT® Gold with Climate+.9"
+   }
+  ],
+  "overview": {
+   "h": "Mainstream workstation performance—reimagined",
+   "t": "Experience new levels of performance for professional workflows. The HP Z2 Tower AI workstation is reengineered to support high-end graphics and seamlessly run both single and multi-threaded apps for fast modeling, simulation, and rendering. Enjoy easy expandability to upgrade, when needs evolve."
+  },
+  "source": "HP Asset Manager: HP Z2 Tower G1i Turmeric FINAL Source Messaging and eTail 88",
+  "updatedAt": "2026-10-12",
+  "id": "Z2-Tower_G1i"
+ },
+ {
+  "codeName": "MachuW14",
+  "features": [
+   {
+    "h": "HP Recommends Windows 11 Pro for business with Microsoft Copilot",
+    "t": "Work anywhere without compromising on performance with Windows 11 and HP collaboration, security, and connectivity technology. Summarize and rewrite content, get relevant content recommendations, and stay organized with Microsoft Copilot."
+   },
+   {
+    "h": "Intel® Core™ Ultra Processor",
+    "t": "Unleash power-efficient performance with up to an Intel® Core™ Ultra 9 CPU. This CPU not only unlocks performance for the next era of AI-enhanced software, but the dedicated NPU greatly increases efficiency for productivity tasks."
+   },
+   {
+    "h": "NVIDIA® Graphics",
+    "t": "Tackle your biggest projects with an optional NVIDIA RTX™ 500 Ada Laptop GPU; certified for pro apps."
+   },
+   {
+    "h": "Large Memory Configurations",
+    "t": "Power through projects with up to 64 GB RAM for fast editing and design."
+   },
+   {
+    "h": "Lightning-fast Storage",
+    "t": "Blitz through multiple tasks and ditch external drives with up to 2 TB local NVMe storage."
+   },
+   {
+    "h": "HP Smart Sense",
+    "t": "HP Smart Sense intelligently optimizes your PC’s thermal and power management based on your usage. Select full performance mode when completing demanding tasks to maximize performance."
+   },
+   {
+    "h": "HP DreamColor Display",
+    "t": "Have confidence in what you see on screen with an optional HP DreamColor Display with 100% DCI-P3 color gamut and a 120Hz refresh rate you get smooth motion for high-speed videos."
+   },
+   {
+    "h": "Network Connectivity",
+    "t": "Stay connected from nearly anywhere with support for various network connectivity options. Choose 5G or up to Wi-Fi 7, for a fast and reliable connection in wireless environments or with the all new RJ-45 get a smooth, wired Internet experience."
+   },
+   {
+    "h": "Poly Camera Pro",
+    "t": "Look your best on video calls and save some power too. Manage your video controls for internal and external cameras with Poly Camera Pro. Now Auto Frame, Spotlight, Background Blur, and virtual backgrounds save power running on the NPU."
+   },
+   {
+    "h": "Protected by HP Wolf Security.",
+    "t": "HP Wolf Security for Business creates a hardware-enforced, always-on, resilient defense. From the BIOS to the browser, above, in, and below the OS, these constantly evolving solutions help protect your PC from modern threats."
+   }
+  ],
+  "ksp": [
+   {
+    "h": "Upgrade to pro-level components",
+    "t": "Say goodbye to lags and crashes with fast responsiveness. With up to an Intel® Core™ Ultra 9 CPU with up to 13 NPU TOPS, 2 NVIDIA RTX™ 500 Ada Laptop GPU and 64GB of RAM open large files and run pro apps simultaneously for speedy multitasking."
+   },
+   {
+    "h": "Work all day. Anywhere.",
+    "t": "The most mobile HP ZBook, now redesigned, is made to move. With a long-lasting battery this sleek device is small enough to fit in your bag so you can stay productive anywhere. This is high performance workstation power on the go."
+   },
+   {
+    "h": "Accelerate AI workflows",
+    "t": "Speed up AI inferencing on the HP ZBook 8, with up to NVIDIA RTX™ 500 Ada Laptop GPU delivering up to 154 AI TOPS for AI workflows.​ Focus on the work that matters and enable productivity without diverting resources from your most demanding work."
+   },
+   {
+    "h": "Part of the world's most sustainable PC portfolio.4",
+    "t": "HP cares about the impact our products have on our people, communities, and the planet. That’s why this device is EPEAT® Gold registered and the outer box packaging is 100% sustainably sourced.6"
+   }
+  ],
+  "overview": {
+   "h": "Step up performance. Not size.",
+   "t": "Pro-level performance combines with true mobility in this sleek and powerful laptop. Review 3D designs, create with AI tools in pro apps, and work across multiple projects wherever you are. Stay productive with an AI workstation that delivers both performance and long-lasting battery.1"
+  },
+  "source": "HP Asset Manager: HP ZBook 8 G1i 14 MachuW14 INTEL Source Messaging and eTail ",
+  "updatedAt": "2026-10-12",
+  "id": "ZBook-8_G1i_14in"
+ },
+ {
+  "codeName": "LampasW14",
+  "features": [
+   {
+    "h": "HP Recommends Windows 11 Pro for business with Microsoft Copilot",
+    "t": "Work anywhere without compromising performance with Windows 11 and HP collaboration, security, and connectivity technology. Summarize and rewrite content, get relevant content recommendations, and stay organized with Microsoft Copilot."
+   },
+   {
+    "h": "AMD Ryzen™ AI PRO processor",
+    "t": "Unleash power-efficient performance with an AMD Ryzen™ AI PRO 400-series processor. This CPU unlocks new levels of performance for the next era of AI-enhanced software and greatly increases efficiency for productivity tasks."
+   },
+   {
+    "h": "Large Memory Configurations",
+    "t": "Power through projects with up to 64 GB RAM for fast editing and design."
+   },
+   {
+    "h": "Lightning-fast Storage",
+    "t": "Blitz through multiple tasks with up to 2 TB local NVMe storage."
+   },
+   {
+    "h": "HP Smart Sense",
+    "t": "HP Smart Sense intelligently optimizes your PC’s thermal and power management based on your usage. Select full performance mode when completing demanding tasks to maximize performance."
+   },
+   {
+    "h": "AI Noise Reduction",
+    "t": "Collaborate with confidence with advanced features like AI Noise Reduction to suppress background noise for crisp, clear calls."
+   },
+   {
+    "h": "HP Sure View 6",
+    "t": "Work confidently in public with HP Sure View 6 - screen privacy technology that’s activated with one keystroke. Sure View reduces visual light to make your screen unreadable when viewed from the side to keep your information private anywhere."
+   },
+   {
+    "h": "HP DreamColor Display",
+    "t": "Have confidence in what you see on screen with an optional HP DreamColor Display with 100% DCI-P3 color gamut and a 120Hz refresh rate you get smooth motion for high-speed videos."
+   },
+   {
+    "h": "Network Connectivity",
+    "t": "Stay connected from nearly anywhere with support for various network connectivity options. Choose up to Wi-Fi 7 and optional 5G with HP Go for a fast and reliable connection in wireless environments or with the all new RJ-45 get a smooth, wired Internet experience."
+   },
+   {
+    "h": "Poly Camera Pro",
+    "t": "Look your best on video calls and save some power too. Manage your video controls for internal and external cameras with Poly Camera Pro. Now Auto Frame, Spotlight, Background Blur, and virtual backgrounds save power running on the NPU."
+   },
+   {
+    "h": "Protected by HP Wolf Security",
+    "t": "HP Wolf Security for Business includes built-in, hardware-enforced, always-on protection designed for workstations. From BIOS to the browser, Wolf Security helps defend against modern threats while maintaining device availability."
+   },
+   {
+    "h": "Workforce Experience Platform (WXP)",
+    "t": "The HP Workforce Experience Platform (WXP) empowers IT teams with AI-powered insights and workflow automation, reducing digital friction to increase employee satisfaction."
+   }
+  ],
+  "ksp": [
+   {
+    "h": "Mobile performance. Upgraded.",
+    "t": "Bring your biggest idea to life faster. With up to an AMD Ryzen™ AI 9 HX PRO 470 processor with Copilot+ NPU and integrated Radeon unified memory graphics, and up to 64GB of RAM, the HP ZBook 8 delivers reliable pro app performance."
+   },
+   {
+    "h": "Ready to work.",
+    "t": "Take your work with you in a thin and light laptop with up to 18 hours battery life. Dual cooling fans allow you to stay productive without overheating, plus reliable Wi-Fi 7 and optional 5G connectivity helps you stay connected wherever you are."
+   },
+   {
+    "h": "Unleash Local AI Power on ZBook 8",
+    "t": "Save time for your best work with local AI on the HP ZBook 8—a powerful Copilot+ PC. Offload and run AI productivity tasks locally on up to a 55 TOPS NPU while also tackling demanding AI-enhanced professional workflows."
+   },
+   {
+    "h": "Built for a better tomorrow",
+    "t": "HP is innovating with purpose to drive impactful, lasting change. This device is ENERGY STAR® certified, EPEAT Gold registered and has attained EPEAT Climate+. Its cover and keycaps are crafted with 50% recycled aluminum and 50% recycled plastics."
+   }
+  ],
+  "overview": {
+   "h": "Uplevel to mobile pro performance",
+   "t": "Accomplish more anywhere. The HP ZBook 8 introduces top performers to AI workstation power in a slim, light design. Now redesigned with up to 35W max system TDP to keep you productive on demanding tasks like 3D modeling, design reviews, and architectural layouts – wherever your work takes you."
+  },
+  "source": "HP Asset Manager: LampasW HP ZBook 8 G2a Source Messaging eTail V2 FINAL Messa",
+  "updatedAt": "2026-10-12",
+  "id": "ZBook-8_G2a_14in"
+ },
+ {
+  "codeName": "LampasW16",
+  "features": [
+   {
+    "h": "HP Recommends Windows 11 Pro for business with Microsoft Copilot",
+    "t": "Work anywhere without compromising performance with Windows 11 and HP collaboration, security, and connectivity technology. Summarize and rewrite content, get relevant content recommendations, and stay organized with Microsoft Copilot."
+   },
+   {
+    "h": "AMD Ryzen™ AI PRO processor",
+    "t": "Unleash power-efficient performance with an AMD Ryzen™ AI PRO 400-series processor. This CPU unlocks new levels of performance for the next era of AI-enhanced software and greatly increases efficiency for productivity tasks."
+   },
+   {
+    "h": "Large Memory Configurations",
+    "t": "Power through projects with up to 64 GB RAM for fast editing and design."
+   },
+   {
+    "h": "Lightning-fast Storage",
+    "t": "Blitz through multiple tasks with up to 2 TB local NVMe storage."
+   },
+   {
+    "h": "HP Smart Sense",
+    "t": "HP Smart Sense intelligently optimizes your PC’s thermal and power management based on your usage. Select full performance mode when completing demanding tasks to maximize performance."
+   },
+   {
+    "h": "AI Noise Reduction",
+    "t": "Collaborate with confidence with advanced features like AI Noise Reduction to suppress background noise for crisp, clear calls."
+   },
+   {
+    "h": "HP Sure View 6",
+    "t": "Work confidently in public with HP Sure View 6 - screen privacy technology that’s activated with one keystroke. Sure View reduces visual light to make your screen unreadable when viewed from the side to keep your information private anywhere."
+   },
+   {
+    "h": "HP DreamColor Display",
+    "t": "Have confidence in what you see on screen with an optional HP DreamColor Display with 100% DCI-P3 color gamut and a 120Hz refresh rate you get smooth motion for high-speed videos."
+   },
+   {
+    "h": "Network Connectivity",
+    "t": "Stay connected from nearly anywhere with support for various network connectivity options. Choose up to Wi-Fi 7 and optional 5G with HP Go for a fast and reliable connection in wireless environments or with the all new RJ-45 get a smooth, wired Internet experience."
+   },
+   {
+    "h": "Poly Camera Pro",
+    "t": "Look your best on video calls and save some power too. Manage your video controls for internal and external cameras with Poly Camera Pro. Now Auto Frame, Spotlight, Background Blur, and virtual backgrounds save power running on the NPU."
+   },
+   {
+    "h": "Protected by HP Wolf Security",
+    "t": "HP Wolf Security for Business includes built-in, hardware-enforced, always-on protection designed for workstations. From BIOS to the browser, Wolf Security helps defend against modern threats while maintaining device availability."
+   },
+   {
+    "h": "Workforce Experience Platform (WXP)",
+    "t": "The HP Workforce Experience Platform (WXP) empowers IT teams with AI-powered insights and workflow automation, reducing digital friction to increase employee satisfaction."
+   }
+  ],
+  "ksp": [
+   {
+    "h": "Mobile performance. Upgraded.",
+    "t": "Bring your biggest idea to life faster. With up to an AMD Ryzen™ AI 9 HX PRO 470 processor with Copilot+ NPU and integrated Radeon unified memory graphics, and up to 64GB of RAM, the HP ZBook 8 delivers reliable pro app performance."
+   },
+   {
+    "h": "Ready to work.",
+    "t": "Take your work with you in a thin and light laptop with up to 18 hours battery life. Dual cooling fans allow you to stay productive without overheating, plus reliable Wi-Fi 7 and optional 5G connectivity helps you stay connected wherever you are."
+   },
+   {
+    "h": "Unleash Local AI Power on ZBook 8",
+    "t": "Save time for your best work with local AI on the HP ZBook 8—a powerful Copilot+ PC. Offload and run AI productivity tasks locally on up to a 55 TOPS NPU while also tackling demanding AI-enhanced professional workflows."
+   },
+   {
+    "h": "Built for a better tomorrow",
+    "t": "HP is innovating with purpose to drive impactful, lasting change. This device is ENERGY STAR® certified, EPEAT Gold registered and has attained EPEAT Climate+. Its cover and keycaps are crafted with 50% recycled aluminum and 50% recycled plastics."
+   }
+  ],
+  "overview": {
+   "h": "Uplevel to mobile pro performance",
+   "t": "Accomplish more anywhere. The HP ZBook 8 introduces top performers to AI workstation power in a slim, light design. Now redesigned with up to 35W max system TDP to keep you productive on demanding tasks like 3D modeling, design reviews, and architectural layouts – wherever your work takes you."
+  },
+  "source": "HP Asset Manager: LampasW HP ZBook 8 G2a Source Messaging eTail V2 FINAL Messa",
+  "updatedAt": "2026-10-12",
+  "id": "ZBook-8_G2a_16in"
+ },
+ {
+  "codeName": "MerinoW14",
+  "features": [
+   {
+    "h": "HP Recommends Windows 11 Pro for business with Microsoft Copilot",
+    "t": "Work anywhere without compromising performance with Windows 11 and HP collaboration, security, and connectivity technology. Summarize and rewrite content, get relevant content recommendations, and stay organized with Microsoft Copilot."
+   },
+   {
+    "h": "Intel® Core™ Ultra Processor",
+    "t": "Unleash power-efficient performance with Intel® Core™ Ultra 3-series processors. This CPU with up to Intel® ArcTM Pro graphics and dedicated Copilot+ NPU unlocks new levels of performance for the next era of AI-enhanced software."
+   },
+   {
+    "h": "NVIDIA® Graphics",
+    "t": "Tackle your biggest projects with an optional NVIDIA RTX PRO™ 500 Blackwell GPU, certified for pro apps."
+   },
+   {
+    "h": "Large Memory Configurations",
+    "t": "Power through projects with up to 64 GB RAM for fast editing and design."
+   },
+   {
+    "h": "Lightning-fast Storage",
+    "t": "Blitz through multiple tasks with up to 2 TB local NVMe storage."
+   },
+   {
+    "h": "HP Smart Sense",
+    "t": "HP Smart Sense intelligently optimizes your PC’s thermal and power management based on your usage. Select full performance mode when completing demanding tasks to maximize performance."
+   },
+   {
+    "h": "AI Noise Reduction",
+    "t": "Collaborate with confidence with advanced features like AI Noise Reduction to suppress background noise for crisp, clear calls."
+   },
+   {
+    "h": "HP Sure View 6",
+    "t": "Work confidently in public with HP Sure View 6 - screen privacy technology that’s activated with one keystroke. Sure View reduces visual light to make your screen unreadable when viewed from the side to keep your information private anywhere."
+   },
+   {
+    "h": "HP DreamColor Display",
+    "t": "Have confidence in what you see on screen with an optional HP DreamColor Display with 100% DCI-P3 color gamut and a 120Hz refresh rate you get smooth motion for high-speed videos."
+   },
+   {
+    "h": "Network Connectivity",
+    "t": "Stay connected from nearly anywhere with support for various network connectivity options. Choose up to Wi-Fi 7 and optional 5G with HP Go, for a fast and reliable wireless connection or RJ-45 for a smooth, wired Internet experience."
+   },
+   {
+    "h": "Poly Camera Pro",
+    "t": "Look your best on video calls and save some power too. Manage your video controls for internal and external cameras with Poly Camera Pro. Now Auto Frame, Spotlight, Background Blur, and virtual backgrounds save power running on the NPU."
+   },
+   {
+    "h": "Protected by HP Wolf Security",
+    "t": "HP Wolf Security for Business includes built-in, hardware-enforced, always-on protection designed for workstations. From BIOS to the browser, Wolf Security helps defend against modern threats while maintaining device availability."
+   }
+  ],
+  "ksp": [
+   {
+    "h": "Mobile performance. Upgraded.",
+    "t": "Bring your biggest idea to life faster. With up to an Intel® Core™ Ultra 9 CPU with Copilot+ NPU and advanced Intel® ArcTM Pro graphics, and optional NVIDIA RTX PRO™ 500 Blackwell GPU, HP ZBook 8 delivers seamless multitasking and pro app performance."
+   },
+   {
+    "h": "Ready to work.",
+    "t": "Take your work with you in a thin and light laptop that lasts up to 165 min longer than last gen. Dual cooling fans allow you to stay productive without overheating, plus reliable Wi-Fi 7 and optional 5G connectivity helps you stay connected wherever you are."
+   },
+   {
+    "h": "Unleash local AI power on HP ZBook 8",
+    "t": "Save time for your best work with local AI on ZBook 8—a Copilot+ PC with up to 50 TOPS NPU. And with an optional NVIDIA RTX PRO™ 500 Blackwell GPU with AI TOPS6, this PC powers through advanced workflows so you can focus on ideas—not obstacles."
+   },
+   {
+    "h": "Built for a better tomorrow",
+    "t": "HP is innovating with purpose to drive impactful, lasting change. This device is ENERGY STAR® certified, EPEAT Gold registered and has attained EPEAT Climate+. Its cover and keycaps are crafted with 50% recycled aluminum and 50% recycled plastics."
+   }
+  ],
+  "overview": {
+   "h": "Step up to mobile pro performance.",
+   "t": "Accomplish more anywhere. The HP ZBook 8 introduces top performers to AI workstation power in a slim, light design. Now redesigned with up to 70W max system TDP to keep you productive on demanding tasks like 3D modeling, design reviews, and architectural layouts – wherever your work takes you."
+  },
+  "source": "HP Asset Manager: MerinoW HP ZBook 8 G2i Source Messaging eTail V2 FINALmessag",
+  "updatedAt": "2026-10-12",
+  "id": "ZBook-8_G2i_14in"
+ },
+ {
+  "codeName": "MerinoW16",
+  "features": [
+   {
+    "h": "HP Recommends Windows 11 Pro for business with Microsoft Copilot",
+    "t": "Work anywhere without compromising performance with Windows 11 and HP collaboration, security, and connectivity technology. Summarize and rewrite content, get relevant content recommendations, and stay organized with Microsoft Copilot."
+   },
+   {
+    "h": "Intel® Core™ Ultra Processor",
+    "t": "Unleash power-efficient performance with Intel® Core™ Ultra 3-series processors. This CPU with up to Intel® ArcTM Pro graphics and dedicated Copilot+ NPU unlocks new levels of performance for the next era of AI-enhanced software."
+   },
+   {
+    "h": "NVIDIA® Graphics",
+    "t": "Tackle your biggest projects with an optional NVIDIA RTX PRO™ 500 Blackwell GPU, certified for pro apps."
+   },
+   {
+    "h": "Large Memory Configurations",
+    "t": "Power through projects with up to 64 GB RAM for fast editing and design."
+   },
+   {
+    "h": "Lightning-fast Storage",
+    "t": "Blitz through multiple tasks with up to 2 TB local NVMe storage."
+   },
+   {
+    "h": "HP Smart Sense",
+    "t": "HP Smart Sense intelligently optimizes your PC’s thermal and power management based on your usage. Select full performance mode when completing demanding tasks to maximize performance."
+   },
+   {
+    "h": "AI Noise Reduction",
+    "t": "Collaborate with confidence with advanced features like AI Noise Reduction to suppress background noise for crisp, clear calls."
+   },
+   {
+    "h": "HP Sure View 6",
+    "t": "Work confidently in public with HP Sure View 6 - screen privacy technology that’s activated with one keystroke. Sure View reduces visual light to make your screen unreadable when viewed from the side to keep your information private anywhere."
+   },
+   {
+    "h": "HP DreamColor Display",
+    "t": "Have confidence in what you see on screen with an optional HP DreamColor Display with 100% DCI-P3 color gamut and a 120Hz refresh rate you get smooth motion for high-speed videos."
+   },
+   {
+    "h": "Network Connectivity",
+    "t": "Stay connected from nearly anywhere with support for various network connectivity options. Choose up to Wi-Fi 7 and optional 5G with HP Go, for a fast and reliable wireless connection or RJ-45 for a smooth, wired Internet experience."
+   },
+   {
+    "h": "Poly Camera Pro",
+    "t": "Look your best on video calls and save some power too. Manage your video controls for internal and external cameras with Poly Camera Pro. Now Auto Frame, Spotlight, Background Blur, and virtual backgrounds save power running on the NPU."
+   },
+   {
+    "h": "Protected by HP Wolf Security",
+    "t": "HP Wolf Security for Business includes built-in, hardware-enforced, always-on protection designed for workstations. From BIOS to the browser, Wolf Security helps defend against modern threats while maintaining device availability."
+   }
+  ],
+  "ksp": [
+   {
+    "h": "Mobile performance. Upgraded.",
+    "t": "Bring your biggest idea to life faster. With up to an Intel® Core™ Ultra 9 CPU with Copilot+ NPU and advanced Intel® ArcTM Pro graphics, and optional NVIDIA RTX PRO™ 500 Blackwell GPU, HP ZBook 8 delivers seamless multitasking and pro app performance."
+   },
+   {
+    "h": "Ready to work.",
+    "t": "Take your work with you in a thin and light laptop that lasts up to 165 min longer than last gen. Dual cooling fans allow you to stay productive without overheating, plus reliable Wi-Fi 7 and optional 5G connectivity helps you stay connected wherever you are."
+   },
+   {
+    "h": "Unleash local AI power on HP ZBook 8",
+    "t": "Save time for your best work with local AI on ZBook 8—a Copilot+ PC with up to 50 TOPS NPU. And with an optional NVIDIA RTX PRO™ 500 Blackwell GPU with AI TOPS6, this PC powers through advanced workflows so you can focus on ideas—not obstacles."
+   },
+   {
+    "h": "Built for a better tomorrow",
+    "t": "HP is innovating with purpose to drive impactful, lasting change. This device is ENERGY STAR® certified, EPEAT Gold registered and has attained EPEAT Climate+. Its cover and keycaps are crafted with 50% recycled aluminum and 50% recycled plastics."
+   }
+  ],
+  "overview": {
+   "h": "Step up to mobile pro performance.",
+   "t": "Accomplish more anywhere. The HP ZBook 8 introduces top performers to AI workstation power in a slim, light design. Now redesigned with up to 70W max system TDP to keep you productive on demanding tasks like 3D modeling, design reviews, and architectural layouts – wherever your work takes you."
+  },
+  "source": "HP Asset Manager: MerinoW HP ZBook 8 G2i Source Messaging eTail V2 FINALmessag",
+  "updatedAt": "2026-10-12",
+  "id": "ZBook-8_G2i_16in"
+ },
+ {
+  "codeName": "Chiron",
+  "features": [
+   {
+    "h": "HP Recommends Windows 11 Pro for business with Microsoft Copilot",
+    "t": "Work anywhere without compromising on performance with Windows 11 and HP collaboration, security, and connectivity technology. Summarize and rewrite content, get relevant content recommendations, and stay organized with Microsoft Copilot."
+   },
+   {
+    "h": "AMD Ryzen™ AI Max PRO – ultimate performance",
+    "t": "Unlock new possibilities with up to an AMD Ryzen™ AI Max+ PRO 395 processor delivering cutting-edge CPU capabilities, unified memory, and powerful ISV-certified graphics to power through demanding AI workflows."
+   },
+   {
+    "h": "Unified Memory Architecture",
+    "t": "Accelerate your workflow with up to 128GB of memory. The unified memory architecture allows you to assign up to 96GB of memory exclusively to the GPU to tackle complex 3D projects with multiple applications running at the same time."
+   },
+   {
+    "h": "Lightning-fast Storage",
+    "t": "Blitz through multiple tasks and ditch external drives with up to 4 TB local NVMe storage."
+   },
+   {
+    "h": "HP Vaporforce Thermals",
+    "t": "Keep cool under any workload with HP Vaporforce Thermals. The vapor chamber vaporizes liquid and efficiently dissipates heat for improved cooling to help protect your workstation from overheating, so you can cut through your heaviest workloads with peak processing power."
+   },
+   {
+    "h": "HP Smart Sense",
+    "t": "HP Smart Sense intelligently optimizes your PC’s thermal and power management based on your usage. Select full performance mode when completing demanding tasks to maximize performance."
+   },
+   {
+    "h": "Eyesafe® Certified Display",
+    "t": "The optional OLED touch Eyesafe® certified display meets TÜV low blue light standards for eye comfort without distorting colors. Eyesafe® displays help improve eye comfort when working for long periods of time."
+   },
+   {
+    "h": "OLED Display",
+    "t": "With an optional OLED display, the technology lights each pixel separately so you'll get deeper blacks for richer contrast and enhanced color depth than traditional LED screens."
+   },
+   {
+    "h": "HP AI Companion",
+    "t": "Elevate your everyday tasks with a collection of AI tools and solutions that can increase your productivity and keep you running at your best."
+   },
+   {
+    "h": "Poly Camera Pro",
+    "t": "Look your best on video calls and save some power too. Manage your video controls for internal and external cameras with Poly Camera Pro. Now Auto Frame, Spotlight, Background Blur, and virtual backgrounds save power running on the NPU."
+   },
+   {
+    "h": "HP Power Manager",
+    "t": "Manage and monitor your battery’s performance and condition and customize charging options with the easy-to-use Battery Manager in the myHP app."
+   },
+   {
+    "h": "Battery life",
+    "t": "When you’re away from the office, this sleek, ultralight PC is ready every step of the way. With long battery life, you can work on complex projects from almost anywhere."
+   },
+   {
+    "h": "HP Fast Charge",
+    "t": "Long battery life gets you through a day of meetings without plugging in. Quickly recharge your PC with HP Fast Charge. You’ll get up to 50% battery life in just 30 minutes of charging."
+   },
+   {
+    "h": "Modern Standby",
+    "t": "Get ready to work the moment inspiration strikes. With no sleep mode and no off mode, the modern standby keeps your rig connected and on demand whenever you need it."
+   },
+   {
+    "h": "HP Context Aware",
+    "t": "HP Context Aware provides AI based optimization to maximize performance when you're working at a table, comfort when you're working from your lap, and responsiveness when you're working on the go."
+   },
+   {
+    "h": "AI Noise Reduction",
+    "t": "Collaborate with confidence with advanced features like AI Noise Reduction to suppress background noise for crisp, clear calls."
+   },
+   {
+    "h": "HP Dynamic Voice Leveling",
+    "t": "Automatically enhances microphone gain to optimize voice clarity within 3-meters of the PC."
+   },
+   {
+    "h": "Capture all the details",
+    "t": "Whether on a call or recording videos, the 5MP + IR camera, featuring Temporal Noise Reduction, provides exceptional clarity and increased definition. Want to make sure no one is watching? Simply close the physical shutter to block the camera’s view."
+   },
+   {
+    "h": "Quickly access Microsoft Copilot",
+    "t": "Launch Microsoft Copilot with a touch of the Copilot key, to write content, analyze data, and stay organized on the sleek HP ZBook Ultra."
+   },
+   {
+    "h": "Fast and efficient Wi-Fi 7",
+    "t": "The portability of your PC and the reliability of a fast connection determines where you can work. Get a fast and reliable connection in dense wireless environments with gigabit data rate Wi-Fi 7.,"
+   },
+   {
+    "h": "Protected by HP Wolf Security.",
+    "t": "HP Wolf Security for Business creates a hardware-enforced, always-on, resilient defense. From the BIOS to the browser, above, in, and below the OS, these constantly evolving solutions help protect your PC from modern threats."
+   },
+   {
+    "h": "Independent Software Vendor Certifications",
+    "t": "Work with confidence knowing your workstation is certified by leading software vendors to ensure peak performance even on complex projects."
+   },
+   {
+    "h": "Military Standards Testing",
+    "t": "Designed for ultimate durability, this ZBook undergoes rigorous MIL-STD 810H tests to help ensure this PC keeps rolling through your workday."
+   },
+   {
+    "h": "Explore new things and find answers",
+    "t": "Seamlessly explore new things and find answers to anything you need, leveraging web content. Feel free to Discover information, advice, creative ideas, or just conversation. Experience the power of AI knowledge at your fingertips."
+   },
+   {
+    "h": "Query and interact with your personal files",
+    "t": "Query and interact with your personal files to get actionable insights. Build a custom library to Analyze so you can compare your documents, summarize, or draft reports and articles."
+   },
+   {
+    "h": "Optimize your PC with Perform tool",
+    "t": "Get updates and ongoing optimization with the new Perform tool that will assess your PC performance, improve it and better your everyday experience over time. Works in the background to maintain system drivers, BIOS, and core PC firmware."
+   }
+  ],
+  "ksp": [
+   {
+    "h": "Next level performance to defy what’s possible.",
+    "t": "Tackle workflows previously not possible on a laptop with an AMD Ryzen™ AI Max PRO processor.1 With up to 16 desktop-class CPU cores, discrete-like integrated graphics, and game-changing 128GB unified memory simultaneously 3D model and render."
+   },
+   {
+    "h": "Ultra-portable to work anywhere",
+    "t": "Take previously desk bound workflows from the office to on-site with the thinnest ZBook ever. Assign up to 96GB RAM exclusively to the GPU to run graphics heavy projects on the go or work locally with LLMs—with ultra long battery life.3"
+   },
+   {
+    "h": "Supercharged AI PC mobile workstation",
+    "t": "Hardware AI accelerators deliver power to propel advanced workloads. Offload and run productivity tasks locally on up to 50 TOPS NPU while also tackling new and more demanding AI enhanced professional workflows.4"
+   },
+   {
+    "h": "Part of the world's most sustainable PC portfolio.5",
+    "t": "At HP, we care about the impact our products have on our people, communities, and planet. That’s why this device is EPEAT® Gold with Climate + and the outer box packaging is 100% sustainably sourced.7"
+   }
+  ],
+  "overview": {
+   "h": "Transformative AI performance.",
+   "t": "Unleash groundbreaking performance to take on complex AI workflows. Defy what’s possible on the go with a sleek, thin, battery efficient, AI PC mobile workstation. Simultaneously render and visualize graphic-intensive projects. Work with LLMs locally like never before. This is power redefined."
+  },
+  "source": "HP Asset Manager: HP ZBook Ultra G1a Chiron Source Messaging and eTail Copy V1",
+  "updatedAt": "2026-10-12",
+  "id": "ZBook-Ultra_G1a_14in"
+ },
+ {
+  "features": [],
+  "ksp": [
+   {
+    "h": "Exceptional performance",
+    "t": "Up to an NVIDIA RTX PRO 2000 Blackwell GPU and up to an Intel Core Ultra 9 285H CPU with up to 13 TOPS NPU."
+   },
+   {
+    "h": "Memory and storage",
+    "t": "Up to 64 GB DDR5-5600 SODIMM memory and up to 8 TB storage."
+   },
+   {
+    "h": "Display options",
+    "t": "Optional 16:10 HP DreamColor display (3840x2400, 500 nits, 120 Hz) or HP Sure View 5 privacy display."
+   },
+   {
+    "h": "Connectivity",
+    "t": "Wi-Fi 7 and Bluetooth 5.4, optional 5G WWAN; 5MP + IR camera with Poly Camera Pro."
+   }
+  ],
+  "overview": {
+   "h": "Pro-certified power within reach",
+   "t": "Upgrade to professional ISV-certified performance at an affordable price. Pro-grade components deliver exceptional performance for generative AI, 3D modeling and conceptual design."
+  },
+  "platform": {
+   "dimensions": "359.4 x 251 x 22.9 mm (14.15 x 9.88 x 0.90 in)",
+   "weight": "2.04–2.12 kg (4.5–4.67 lb)"
+  },
+  "source": "HP Asset Manager: HP ZBook X G1 Sales Transition Playbook (4576614)",
+  "updatedAt": "2026-10-12",
+  "id": "ZBook-X_G1i_16in"
+ },
+ {
+  "codeName": "Ice Cream",
+  "features": [
+   {
+    "h": "HP Recommends Windows 11 Pro for business with Microsoft Copilot",
+    "t": "Work anywhere without compromising on performance with Windows 11 and HP collaboration, security, and connectivity technology. Summarize and rewrite content, get relevant content recommendations, and stay organized with Microsoft Copilot."
+   },
+   {
+    "h": "Intel® Core™ Ultra Processor",
+    "t": "Unleash power-efficient performance with the latest Intel Core Ultra 3-series. This CPU with up to Intel Arc Pro graphics and dedicated Copilot+ NPU unlocks new levels of performance for the next era of AI-enhanced software and greatly increases efficiency for productivity tasks."
+   },
+   {
+    "h": "NVIDIA® Graphics",
+    "t": "Experience high-end visualization and seamlessly multi-task on your biggest projects, now with up to an NVIDIA RTX PRO™ 3000 Blackwell GPU certified for pro apps."
+   },
+   {
+    "h": "Large Memory Configurations",
+    "t": "Power through projects now with 2x the memory gen-over-gen, up to 128GB RAM for fast, powerful performance."
+   },
+   {
+    "h": "Lightning-fast Storage",
+    "t": "Blitz through multiple tasks with up 8TB NVMe and OPAL storage options."
+   },
+   {
+    "h": "HP Smart Sense",
+    "t": "HP Smart Sense intelligently optimizes your PC’s thermal and power management based on your usage. Select full performance mode when completing demanding tasks to maximize performance."
+   },
+   {
+    "h": "HP DreamColor Display",
+    "t": "Have confidence in what you see on screen with an optional HP DreamColor Display with 100% DCI-P3 color gamut and a 120Hz refresh rate you get smooth motion for high-speed videos."
+   },
+   {
+    "h": "Fast and Efficient Wi-Fi 7",
+    "t": "The portability of your PC and the reliability of a fast connection determines where you can work. Get a fast and reliable connection in dense wireless environments with gigabit data rate Wi-Fi 7."
+   },
+   {
+    "h": "Poly Camera Pro",
+    "t": "Look your best on video calls and save some power too. Manage your video controls for internal and external cameras with Poly Camera Pro. Now Auto Frame, Spotlight, Background Blur, and virtual backgrounds save power running on the NPU."
+   },
+   {
+    "h": "HP Power Manager",
+    "t": "Manage and monitor your 96whr battery’s performance and condition and customize charging options with the easy-to-use Battery Manager in the myHP app."
+   },
+   {
+    "h": "HP Sure View 6",
+    "t": "Work confidently in public with HP Sure View 6 - screen privacy technology that’s activated with one keystroke. Sure View reduces visual light to make your screen unreadable when viewed from the side to keep your information private anywhere."
+   },
+   {
+    "h": "Stay Connected with HP Go",
+    "t": "With the optional HP Go 5G cellular solution, enjoy seamless, out-of-the-box connectivity for effortless communication, collaboration, and creativity that utilizes the strongest stable connection available."
+   },
+   {
+    "h": "AI Noise Reduction",
+    "t": "Collaborate with confidence with advanced features like AI Noise Reduction to suppress background noise for crisp, clear calls."
+   },
+   {
+    "h": "Independent Software Vendor Certifications",
+    "t": "Work with confidence knowing your workstation is certified by leading software vendors to ensure peak performance even on complex projects."
+   },
+   {
+    "h": "Protected by HP Wolf Security",
+    "t": "HP Wolf Security for Business includes built-in, hardware-enforced, always-on protection designed for workstations. From BIOS to the browser, Wolf Security helps defend against modern threats while maintaining device availability."
+   },
+   {
+    "h": "Military-grade Tested",
+    "t": "Designed for ultimate durability, this ZBook undergoes rigorous MIL-STD 810H tests to help ensure this PC keeps rolling through your workday."
+   },
+   {
+    "h": "Workforce Experience Platform (WXP)",
+    "t": "The HP Workforce Experience Platform (WXP) empowers IT teams with AI-powered insights and workflow automation, reducing digital friction to increase employee satisfaction."
+   },
+   {
+    "h": "Fast and efficient wired connectivity",
+    "t": "Enjoy the flexibility of wired Internet connectivity with the RJ-45 port."
+   },
+   {
+    "h": "Hear and be heard",
+    "t": "Dynamic Voice Leveling automatically enhances microphone gain to optimize voice clarity within 3-meters of the PC. AI Noise Reduction uses noise-filtering technology to enhance audio conferencing experience even while wearing a mask."
+   },
+   {
+    "h": "One touch powers the PC and logs you in.",
+    "t": "Power up and log in with a single touch of the power key that combines the power button with an integrated fingerprint sensor enhancing both security and convenience."
+   },
+   {
+    "h": "Wake and lock with your presence",
+    "t": "Lock your PC when you leave it and wake it when you approach with HP Auto Lock and Awake. An advanced proximity sensor detects your presence and triggers the camera and Windows Hello to confirm your identity and unlock your PC."
+   }
+  ],
+  "ksp": [
+   {
+    "h": "Power through professional workflows.",
+    "t": "Seamlessly power through 3D modeling, video editing, and rendering. With up to an Intel® Core™ Ultra 9 3-Series CPU, up to an optional NVIDIA RTX PRO™ 3000 Blackwell GPU, and up to 128GB DDR5 memory, ZBook X keeps even demanding workflows running smoothly."
+   },
+   {
+    "h": "Advanced workflows.",
+    "t": "Power your ideas where work takes you. A portable design with advanced thermals keeps cool and quiet while all-day battery life and Wi-Fi 6 or 7, and optional 5G with HP Go connectivity help keep you productive on the move."
+   },
+   {
+    "h": "Unleash Local AI Power on HP ZBook X",
+    "t": "Save time for your best work with local AI on ZBook X—a Copilot+ PC with up to 50 TOPS NPU. 3 And with an optional NVIDIA RTX PRO™ 3000 Blackwell GPU with AI TOPS4, this PC powers through advanced workflows so you can focus on ideas—not obstacles."
+   },
+   {
+    "h": "Built for a better tomorrow.",
+    "t": "HP is innovating with purpose to drive impactful, lasting change. This device is ENERGY STAR® certified, EPEAT Gold registered and has attained EPEAT Climate+. Its cover and keycaps are crafted with 50% recycled aluminum and 50% recycled plastics."
+   }
+  ],
+  "overview": {
+   "h": "Expert performance. Exceptional value.",
+   "t": "Work with generative AI to explore design concepts, or complete 3D modeling and conceptual designs—all on the go. Built to give pros the power they need at an exceptional value, the HP ZBook X delivers advanced AI performance, scalable high-end graphics and memory, and all-day battery life. 2"
+  },
+  "source": "HP Asset Manager: Ice Cream HP ZBook X G2i Source Messaging eTail V2 FINALMess",
+  "updatedAt": "2026-10-12",
+  "id": "ZBook-X_G2i_16in"
+ }
+]

@@ -1,0 +1,3696 @@
+[
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "6R0Q0AA_A2K",
+  "primary": "srp",
+  "sku": "6R0Q0AA#A2K",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "dp": {
+    "amount": 46041
+   },
+   "srp": {
+    "amount": 51156.66
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "6R0Q1AA_A2K",
+  "primary": "srp",
+  "sku": "6R0Q1AA#A2K",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "dp": {
+    "amount": 55348.48
+   },
+   "srp": {
+    "amount": 61498.31
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "6R0Q2AA_A2K",
+  "primary": "srp",
+  "sku": "6R0Q2AA#A2K",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "dp": {
+    "amount": 68006.65
+   },
+   "srp": {
+    "amount": 75562.94
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "6R0R6AA_A2K",
+  "primary": "srp",
+  "sku": "6R0R6AA#A2K",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "dp": {
+    "amount": 56465.37
+   },
+   "srp": {
+    "amount": 62739.3
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "6R1E8AA_A2K",
+  "primary": "srp",
+  "sku": "6R1E8AA#A2K",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "dp": {
+    "amount": 47157.89
+   },
+   "srp": {
+    "amount": 52397.66
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "76C46PA_A2K",
+  "primary": "srp",
+  "sku": "76C46PA#A2K",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "dp": {
+    "amount": 46289.2
+   },
+   "srp": {
+    "amount": 51432.44
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "76C47PA_A2K",
+  "primary": "srp",
+  "sku": "76C47PA#A2K",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "dp": {
+    "amount": 47406.09
+   },
+   "srp": {
+    "amount": 52673.44
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "76C48PA_A2K",
+  "primary": "srp",
+  "sku": "76C48PA#A2K",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "dp": {
+    "amount": 46041
+   },
+   "srp": {
+    "amount": 51156.66
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "76C49PA_A2K",
+  "primary": "srp",
+  "sku": "76C49PA#A2K",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "dp": {
+    "amount": 47095.84
+   },
+   "srp": {
+    "amount": 52328.72
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "76C77PA_A2K",
+  "primary": "srp",
+  "sku": "76C77PA#A2K",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "dp": {
+    "amount": 50756.79
+   },
+   "srp": {
+    "amount": 56396.43
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "76C78PA_A2K",
+  "primary": "srp",
+  "sku": "76C78PA#A2K",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "dp": {
+    "amount": 63787.26
+   },
+   "srp": {
+    "amount": 70874.73
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "76C79PA_A2K",
+  "primary": "srp",
+  "sku": "76C79PA#A2K",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "dp": {
+    "amount": 61429.36
+   },
+   "srp": {
+    "amount": 68254.85
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "76C80PA_A2K",
+  "primary": "srp",
+  "sku": "76C80PA#A2K",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "dp": {
+    "amount": 56589.47
+   },
+   "srp": {
+    "amount": 62877.19
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "76C87PA_A2K",
+  "primary": "srp",
+  "sku": "76C87PA#A2K",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "dp": {
+    "amount": 55720.78
+   },
+   "srp": {
+    "amount": 61911.97
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "76C88PA_A2K",
+  "primary": "srp",
+  "sku": "76C88PA#A2K",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "dp": {
+    "amount": 56961.77
+   },
+   "srp": {
+    "amount": 63290.86
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "76C89PA_A2K",
+  "primary": "srp",
+  "sku": "76C89PA#A2K",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "dp": {
+    "amount": 56713.57
+   },
+   "srp": {
+    "amount": 63015.08
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "76C91PA_A2K",
+  "primary": "srp",
+  "sku": "76C91PA#A2K",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "dp": {
+    "amount": 68254.85
+   },
+   "srp": {
+    "amount": 75838.72
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "76C92PA_A2K",
+  "primary": "srp",
+  "sku": "76C92PA#A2K",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "dp": {
+    "amount": 69247.65
+   },
+   "srp": {
+    "amount": 76941.83
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "76P36PA_A2K",
+  "primary": "srp",
+  "sku": "76P36PA#A2K",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "dp": {
+    "amount": 57706.37
+   },
+   "srp": {
+    "amount": 64118.19
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "76P54PA_A2K",
+  "primary": "srp",
+  "sku": "76P54PA#A2K",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "dp": {
+    "amount": 69247.65
+   },
+   "srp": {
+    "amount": 76941.83
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "935N0PA_A2K",
+  "primary": "srp",
+  "sku": "935N0PA#A2K",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "dp": {
+    "amount": 86497.51
+   },
+   "srp": {
+    "amount": 96108.34
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "957H3PA_A2K",
+  "primary": "srp",
+  "sku": "957H3PA#A2K",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "dp": {
+    "amount": 86745.71
+   },
+   "srp": {
+    "amount": 96384.12
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "97W04PA_A2K",
+  "primary": "srp",
+  "sku": "97W04PA#A2K",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "dp": {
+    "amount": 87862.6
+   },
+   "srp": {
+    "amount": 97625.12
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "9S5Y4PA_A2K",
+  "primary": "srp",
+  "sku": "9S5Y4PA#A2K",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "dp": {
+    "amount": 58202.77
+   },
+   "srp": {
+    "amount": 64669.74
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "9S651PA_A2K",
+  "primary": "srp",
+  "sku": "9S651PA#A2K",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "dp": {
+    "amount": 66889.75
+   },
+   "srp": {
+    "amount": 74321.95
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "9S653PA_A2K",
+  "primary": "srp",
+  "sku": "9S653PA#A2K",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "dp": {
+    "amount": 67013.85
+   },
+   "srp": {
+    "amount": 74459.83
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "9S671PA_A2K",
+  "primary": "srp",
+  "sku": "9S671PA#A2K",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "dp": {
+    "amount": 70488.64
+   },
+   "srp": {
+    "amount": 78320.71
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "9S672PA_A2K",
+  "primary": "srp",
+  "sku": "9S672PA#A2K",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "dp": {
+    "amount": 88855.4
+   },
+   "srp": {
+    "amount": 98728.22
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "9S674PA_A2K",
+  "primary": "srp",
+  "sku": "9S674PA#A2K",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "dp": {
+    "amount": 71357.34
+   },
+   "srp": {
+    "amount": 79285.93
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "9S677PA_A2K",
+  "primary": "srp",
+  "sku": "9S677PA#A2K",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "dp": {
+    "amount": 71605.54
+   },
+   "srp": {
+    "amount": 79561.71
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "9S6J2PA_A2K",
+  "primary": "srp",
+  "sku": "9S6J2PA#A2K",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "dp": {
+    "amount": 67882.55
+   },
+   "srp": {
+    "amount": 75425.05
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "9T851PA_A2K",
+  "primary": "srp",
+  "sku": "9T851PA#A2K",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "dp": {
+    "amount": 104491.97
+   },
+   "srp": {
+    "amount": 116102.19
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "9U0Y7PA_A2K",
+  "primary": "srp",
+  "sku": "9U0Y7PA#A2K",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "dp": {
+    "amount": 51501.39
+   },
+   "srp": {
+    "amount": 57223.76
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "9U0Z8PA_A2K",
+  "primary": "srp",
+  "sku": "9U0Z8PA#A2K",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "dp": {
+    "amount": 50384.49
+   },
+   "srp": {
+    "amount": 55982.76
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "9W429PA_A2K",
+  "primary": "srp",
+  "sku": "9W429PA#A2K",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "dp": {
+    "amount": 85628.81
+   },
+   "srp": {
+    "amount": 95143.12
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-02",
+  "expires": null,
+  "id": "9Z6Q5PT",
+  "primary": "srp",
+  "sku": "9Z6Q5PT",
+  "source": "Iontech BNB Price Guide – September 2026 update (website data of 2 Oct 2026)",
+  "types": {
+   "dp": {
+    "amount": 139350
+   },
+   "srp": {
+    "amount": 154833.33
+   }
+  },
+  "updatedAt": "2026-10-02T00:00:00Z",
+  "updatedBy": "BNB price guide import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-02"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "A06FVPA_A2K",
+  "primary": "srp",
+  "sku": "A06FVPA#A2K",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "dp": {
+    "amount": 59071.47
+   },
+   "srp": {
+    "amount": 65634.96
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "A0KZ6PA_A2K",
+  "primary": "srp",
+  "sku": "A0KZ6PA#A2K",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "dp": {
+    "amount": 129187.81
+   },
+   "srp": {
+    "amount": 143542.01
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "A13SNPA_A2K",
+  "primary": "srp",
+  "sku": "A13SNPA#A2K",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "dp": {
+    "amount": 58575.07
+   },
+   "srp": {
+    "amount": 65083.41
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "A13WNPA_A2K",
+  "primary": "srp",
+  "sku": "A13WNPA#A2K",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "dp": {
+    "amount": 59443.77
+   },
+   "srp": {
+    "amount": 66048.63
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "A2AT4PA_A2K",
+  "primary": "srp",
+  "sku": "A2AT4PA#A2K",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "dp": {
+    "amount": 59443.77
+   },
+   "srp": {
+    "amount": 66048.63
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "A2AW5PA_A2K",
+  "primary": "srp",
+  "sku": "A2AW5PA#A2K",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "dp": {
+    "amount": 58575.07
+   },
+   "srp": {
+    "amount": 65083.41
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "A41S7PA_A2K",
+  "primary": "srp",
+  "sku": "A41S7PA#A2K",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "dp": {
+    "amount": 92950.69
+   },
+   "srp": {
+    "amount": 103278.55
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-02",
+  "expires": null,
+  "id": "A7RB1PT",
+  "primary": "srp",
+  "sku": "A7RB1PT",
+  "source": "Iontech BNB Price Guide – September 2026 update (website data of 2 Oct 2026)",
+  "types": {
+   "dp": {
+    "amount": 182040
+   },
+   "srp": {
+    "amount": 202266.67
+   }
+  },
+  "updatedAt": "2026-10-02T00:00:00Z",
+  "updatedBy": "BNB price guide import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-02"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "A95CWPA_A2K",
+  "primary": "srp",
+  "sku": "A95CWPA#A2K",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "dp": {
+    "amount": 57582.27
+   },
+   "srp": {
+    "amount": 60790
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "A95D3PA_A2K",
+  "primary": "srp",
+  "sku": "A95D3PA#A2K",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "dp": {
+    "amount": 75080.33
+   },
+   "srp": {
+    "amount": 79260
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "B15C0AA_A2K",
+  "primary": "srp",
+  "sku": "B15C0AA#A2K",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "dp": {
+    "amount": 51749.58
+   },
+   "srp": {
+    "amount": 57499.54
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "B15KLAA_A2K",
+  "primary": "srp",
+  "sku": "B15KLAA#A2K",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "dp": {
+    "amount": 53486.98
+   },
+   "srp": {
+    "amount": 59429.98
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "B16PYAA_A2K",
+  "primary": "srp",
+  "sku": "B16PYAA#A2K",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "dp": {
+    "amount": 76941.83
+   },
+   "srp": {
+    "amount": 85490.92
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "B16QGAA_A2K",
+  "primary": "srp",
+  "sku": "B16QGAA#A2K",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "dp": {
+    "amount": 75204.43
+   },
+   "srp": {
+    "amount": 83560.48
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "B16WRAA_A2K",
+  "primary": "srp",
+  "sku": "B16WRAA#A2K",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "dp": {
+    "amount": 87862.6
+   },
+   "srp": {
+    "amount": 97625.12
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "B44Q7PA_A2K",
+  "primary": "srp",
+  "sku": "B44Q7PA#A2K",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "dp": {
+    "amount": 86745.71
+   },
+   "srp": {
+    "amount": 91570
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "B7JJ4PA_A2K",
+  "primary": "srp",
+  "sku": "B7JJ4PA#A2K",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "dp": {
+    "amount": 72722.44
+   },
+   "srp": {
+    "amount": 76770
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "B7JJ5PA_A2K",
+  "primary": "srp",
+  "sku": "B7JJ5PA#A2K",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "dp": {
+    "amount": 73839.34
+   },
+   "srp": {
+    "amount": 77950
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "B7JJ6PA_A2K",
+  "primary": "srp",
+  "sku": "B7JJ6PA#A2K",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "dp": {
+    "amount": 72722.44
+   },
+   "srp": {
+    "amount": 76770
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "B7JJ7PA_A2K",
+  "primary": "srp",
+  "sku": "B7JJ7PA#A2K",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "dp": {
+    "amount": 73839.34
+   },
+   "srp": {
+    "amount": 77950
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "B7JR6PA_A2K",
+  "primary": "srp",
+  "sku": "B7JR6PA#A2K",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "dp": {
+    "amount": 82774.52
+   },
+   "srp": {
+    "amount": 91971.68
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "B7JR7PA_A2K",
+  "primary": "srp",
+  "sku": "B7JR7PA#A2K",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "dp": {
+    "amount": 83519.11
+   },
+   "srp": {
+    "amount": 92799.02
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-02",
+  "expires": null,
+  "id": "B8GL5PT",
+  "primary": "srp",
+  "sku": "B8GL5PT",
+  "source": "Iontech BNB Price Guide – September 2026 update (website data of 2 Oct 2026)",
+  "types": {
+   "dp": {
+    "amount": 140490
+   },
+   "srp": {
+    "amount": 156100
+   }
+  },
+  "updatedAt": "2026-10-02T00:00:00Z",
+  "updatedBy": "BNB price guide import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-02"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "B8KZ9PA_A2K",
+  "primary": "srp",
+  "sku": "B8KZ9PA#A2K",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "dp": {
+    "amount": 87614.4
+   },
+   "srp": {
+    "amount": 97349.34
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "B8MH6PA_A2K",
+  "primary": "srp",
+  "sku": "B8MH6PA#A2K",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "dp": {
+    "amount": 56341.27
+   },
+   "srp": {
+    "amount": 59480
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "B90KFPA_A2K",
+  "primary": "srp",
+  "sku": "B90KFPA#A2K",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "dp": {
+    "amount": 51749.58
+   },
+   "srp": {
+    "amount": 57499.54
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "B90KVPA_A2K",
+  "primary": "srp",
+  "sku": "B90KVPA#A2K",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "dp": {
+    "amount": 52245.98
+   },
+   "srp": {
+    "amount": 58051.09
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "B90TLPA_A2K",
+  "primary": "srp",
+  "sku": "B90TLPA#A2K",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "dp": {
+    "amount": 53983.38
+   },
+   "srp": {
+    "amount": 59981.53
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "B91JVPA_A2K",
+  "primary": "srp",
+  "sku": "B91JVPA#A2K",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "dp": {
+    "amount": 90716.9
+   },
+   "srp": {
+    "amount": 100796.55
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "B91L6PA_A2K",
+  "primary": "srp",
+  "sku": "B91L6PA#A2K",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "dp": {
+    "amount": 89351.8
+   },
+   "srp": {
+    "amount": 99279.78
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-02",
+  "expires": null,
+  "id": "B91WWPT",
+  "primary": "srp",
+  "sku": "B91WWPT",
+  "source": "Iontech BNB Price Guide – September 2026 update (website data of 2 Oct 2026)",
+  "types": {
+   "dp": {
+    "amount": 85270
+   },
+   "srp": {
+    "amount": 94744.44
+   }
+  },
+  "updatedAt": "2026-10-02T00:00:00Z",
+  "updatedBy": "BNB price guide import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-02"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "B93H6PA_A2K",
+  "primary": "srp",
+  "sku": "B93H6PA#A2K",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "dp": {
+    "amount": 78679.22
+   },
+   "srp": {
+    "amount": 87421.36
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "B96STPA_A2K",
+  "primary": "srp",
+  "sku": "B96STPA#A2K",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "dp": {
+    "amount": 77562.33
+   },
+   "srp": {
+    "amount": 86180.36
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "B96U6PA_A2K",
+  "primary": "srp",
+  "sku": "B96U6PA#A2K",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "dp": {
+    "amount": 77314.13
+   },
+   "srp": {
+    "amount": 85904.59
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "B96XHPA_A2K",
+  "primary": "srp",
+  "sku": "B96XHPA#A2K",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "dp": {
+    "amount": 75824.93
+   },
+   "srp": {
+    "amount": 84249.92
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "B96XKPA_A2K",
+  "primary": "srp",
+  "sku": "B96XKPA#A2K",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "dp": {
+    "amount": 75576.73
+   },
+   "srp": {
+    "amount": 83974.15
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "B98QVPA_A2K",
+  "primary": "srp",
+  "sku": "B98QVPA#A2K",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "dp": {
+    "amount": 55224.38
+   },
+   "srp": {
+    "amount": 58300
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "B98QYPA_A2K",
+  "primary": "srp",
+  "sku": "B98QYPA#A2K",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "dp": {
+    "amount": 57706.37
+   },
+   "srp": {
+    "amount": 60930
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "B98R6PA_A2K",
+  "primary": "srp",
+  "sku": "B98R6PA#A2K",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "dp": {
+    "amount": 64531.86
+   },
+   "srp": {
+    "amount": 68130
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "B98RNPA_A2K",
+  "primary": "srp",
+  "sku": "B98RNPA#A2K",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "dp": {
+    "amount": 87862.6
+   },
+   "srp": {
+    "amount": 92750
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "B9EA8PA_A2K",
+  "primary": "srp",
+  "sku": "B9EA8PA#A2K",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "dp": {
+    "amount": 104367.87
+   },
+   "srp": {
+    "amount": 115964.3
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "B9EC4PA_A2K",
+  "primary": "srp",
+  "sku": "B9EC4PA#A2K",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "dp": {
+    "amount": 86373.41
+   },
+   "srp": {
+    "amount": 95970.45
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "B9EH0PA_A2K",
+  "primary": "srp",
+  "sku": "B9EH0PA#A2K",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "dp": {
+    "amount": 56837.67
+   },
+   "srp": {
+    "amount": 60000
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "B9EJ6PA_A2K",
+  "primary": "srp",
+  "sku": "B9EJ6PA#A2K",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "dp": {
+    "amount": 69247.65
+   },
+   "srp": {
+    "amount": 73100
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "B9EN5PA_A2K",
+  "primary": "srp",
+  "sku": "B9EN5PA#A2K",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "dp": {
+    "amount": 64730
+   },
+   "srp": {
+    "amount": 71930
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "B9ER1PA_A2K",
+  "primary": "srp",
+  "sku": "B9ER1PA#A2K",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "dp": {
+    "amount": 87242.11
+   },
+   "srp": {
+    "amount": 96935.67
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "B9ER5PA_A2K",
+  "primary": "srp",
+  "sku": "B9ER5PA#A2K",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "dp": {
+    "amount": 71357.34
+   },
+   "srp": {
+    "amount": 79285.93
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "B9EU8PA_A2K",
+  "primary": "srp",
+  "sku": "B9EU8PA#A2K",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "dp": {
+    "amount": 67882.55
+   },
+   "srp": {
+    "amount": 75425.05
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "B9FH4PA_A2K",
+  "primary": "srp",
+  "sku": "B9FH4PA#A2K",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "dp": {
+    "amount": 104740.17
+   },
+   "srp": {
+    "amount": 116377.96
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "B9FS0PA_A2K",
+  "primary": "srp",
+  "sku": "B9FS0PA#A2K",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "dp": {
+    "amount": 70488.64
+   },
+   "srp": {
+    "amount": 78320.71
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "B9FZ7PA_A2K",
+  "primary": "srp",
+  "sku": "B9FZ7PA#A2K",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "dp": {
+    "amount": 67013.85
+   },
+   "srp": {
+    "amount": 74459.83
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "B9TJ3AA_A2K",
+  "primary": "srp",
+  "sku": "B9TJ3AA#A2K",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "dp": {
+    "amount": 87242.11
+   },
+   "srp": {
+    "amount": 96935.67
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-02",
+  "expires": null,
+  "id": "BD8B3PT",
+  "primary": "srp",
+  "sku": "BD8B3PT",
+  "source": "Iontech BNB Price Guide – September 2026 update (website data of 2 Oct 2026)",
+  "types": {
+   "dp": {
+    "amount": 75810
+   },
+   "srp": {
+    "amount": 84233.33
+   }
+  },
+  "updatedAt": "2026-10-02T00:00:00Z",
+  "updatedBy": "BNB price guide import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-02"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "BE0S5PA_A2K",
+  "primary": "srp",
+  "sku": "BE0S5PA#A2K",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "dp": {
+    "amount": 65200
+   },
+   "srp": {
+    "amount": 72450
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-02",
+  "expires": null,
+  "id": "BV3M7PT",
+  "primary": "srp",
+  "sku": "BV3M7PT",
+  "source": "Iontech BNB Price Guide – September 2026 update (website data of 2 Oct 2026)",
+  "types": {
+   "dp": {
+    "amount": 135090
+   },
+   "srp": {
+    "amount": 150100
+   }
+  },
+  "updatedAt": "2026-10-02T00:00:00Z",
+  "updatedBy": "BNB price guide import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-02"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-02",
+  "expires": null,
+  "id": "BW2Q0PT",
+  "primary": "srp",
+  "sku": "BW2Q0PT",
+  "source": "Iontech BNB Price Guide – September 2026 update (website data of 2 Oct 2026)",
+  "types": {
+   "dp": {
+    "amount": 170100
+   },
+   "srp": {
+    "amount": 189000
+   }
+  },
+  "updatedAt": "2026-10-02T00:00:00Z",
+  "updatedBy": "BNB price guide import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-02"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-02",
+  "expires": null,
+  "id": "BZ2T2PT",
+  "primary": "srp",
+  "sku": "BZ2T2PT",
+  "source": "Iontech BNB Price Guide – September 2026 update (website data of 2 Oct 2026)",
+  "types": {
+   "dp": {
+    "amount": 103710
+   },
+   "srp": {
+    "amount": 115233.33
+   }
+  },
+  "updatedAt": "2026-10-02T00:00:00Z",
+  "updatedBy": "BNB price guide import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-02"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "C21MPPA_A2K",
+  "primary": "srp",
+  "sku": "C21MPPA#A2K",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "dp": {
+    "amount": 86993.91
+   },
+   "srp": {
+    "amount": 96659.9
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "C3AN9PT",
+  "primary": "order",
+  "sku": "C3AN9PT",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "order": {
+    "amount": 336000
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "CJ9R8PT",
+  "primary": "onhand",
+  "sku": "CJ9R8PT",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "onhand": {
+    "amount": 173710
+   },
+   "order": {
+    "amount": 237180
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "CJ9S1PT",
+  "primary": "onhand",
+  "sku": "CJ9S1PT",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "onhand": {
+    "amount": 193470
+   },
+   "order": {
+    "amount": 263530
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "CJ9S2PT",
+  "primary": "onhand",
+  "sku": "CJ9S2PT",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "onhand": {
+    "amount": 283070
+   },
+   "order": {
+    "amount": 336000
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "CJ9S3PT",
+  "primary": "onhand",
+  "sku": "CJ9S3PT",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "onhand": {
+    "amount": 218510
+   },
+   "order": {
+    "amount": 256940
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "CJ9S4PT",
+  "primary": "onhand",
+  "sku": "CJ9S4PT",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "onhand": {
+    "amount": 182030
+   },
+   "order": {
+    "amount": 224000
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "CJ9S5PT",
+  "primary": "onhand",
+  "sku": "CJ9S5PT",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "onhand": {
+    "amount": 194540
+   },
+   "order": {
+    "amount": 237180
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "CJ9S6PT",
+  "primary": "onhand",
+  "sku": "CJ9S6PT",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "onhand": {
+    "amount": 284860
+   },
+   "order": {
+    "amount": 342590
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-02",
+  "expires": null,
+  "id": "CR5W0PT",
+  "primary": "srp",
+  "sku": "CR5W0PT",
+  "source": "Iontech BNB Price Guide – September 2026 update (website data of 2 Oct 2026)",
+  "types": {
+   "dp": {
+    "amount": 102920
+   },
+   "srp": {
+    "amount": 114355.56
+   }
+  },
+  "updatedAt": "2026-10-02T00:00:00Z",
+  "updatedBy": "BNB price guide import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-02"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "CS3N9AA_A2K",
+  "primary": "srp",
+  "sku": "CS3N9AA#A2K",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "dp": {
+    "amount": 50198.34
+   },
+   "srp": {
+    "amount": 55775.93
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "CS3P0AA_A2K",
+  "primary": "srp",
+  "sku": "CS3P0AA#A2K",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "dp": {
+    "amount": 72846.54
+   },
+   "srp": {
+    "amount": 80940.6
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "CS3Q0AA_A2K",
+  "primary": "srp",
+  "sku": "CS3Q0AA#A2K",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "dp": {
+    "amount": 83767.31
+   },
+   "srp": {
+    "amount": 93074.79
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "CS3Q6AA_A2K",
+  "primary": "srp",
+  "sku": "CS3Q6AA#A2K",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "dp": {
+    "amount": 79051.52
+   },
+   "srp": {
+    "amount": 87835.03
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "CT5P5PA_A2K",
+  "primary": "srp",
+  "sku": "CT5P5PA#A2K",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "dp": {
+    "amount": 110350
+   },
+   "srp": {
+    "amount": 122620
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-02",
+  "expires": null,
+  "id": "CW0Z7PT",
+  "primary": "srp",
+  "sku": "CW0Z7PT",
+  "source": "Iontech BNB Price Guide – September 2026 update (website data of 2 Oct 2026)",
+  "types": {
+   "dp": {
+    "amount": 90270
+   },
+   "srp": {
+    "amount": 100300
+   }
+  },
+  "updatedAt": "2026-10-02T00:00:00Z",
+  "updatedBy": "BNB price guide import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-02"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-02",
+  "expires": null,
+  "id": "CW0Z9PT",
+  "primary": "srp",
+  "sku": "CW0Z9PT",
+  "source": "Iontech BNB Price Guide – September 2026 update (website data of 2 Oct 2026)",
+  "types": {
+   "dp": {
+    "amount": 99730
+   },
+   "srp": {
+    "amount": 110811.11
+   }
+  },
+  "updatedAt": "2026-10-02T00:00:00Z",
+  "updatedBy": "BNB price guide import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-02"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "CW6L2PT",
+  "primary": "onhand",
+  "sku": "CW6L2PT",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "onhand": {
+    "amount": 279120
+   },
+   "order": {
+    "amount": 375530
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "CW6L3PT",
+  "primary": "order",
+  "sku": "CW6L3PT",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "order": {
+    "amount": 224000
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "CW6L5PT",
+  "primary": "onhand",
+  "sku": "CW6L5PT",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "onhand": {
+    "amount": 220940
+   },
+   "order": {
+    "amount": 270120
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-02",
+  "expires": null,
+  "id": "D60FWPT",
+  "primary": "srp",
+  "sku": "D60FWPT",
+  "source": "Iontech BNB Price Guide – September 2026 update (website data of 2 Oct 2026)",
+  "types": {
+   "dp": {
+    "amount": 84870
+   },
+   "srp": {
+    "amount": 94300
+   }
+  },
+  "updatedAt": "2026-10-02T00:00:00Z",
+  "updatedBy": "BNB price guide import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-02"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-02",
+  "expires": null,
+  "id": "D9ST0AT",
+  "primary": "srp",
+  "sku": "D9ST0AT",
+  "source": "Iontech BNB Price Guide – September 2026 update (website data of 2 Oct 2026)",
+  "types": {
+   "dp": {
+    "amount": 117470
+   },
+   "srp": {
+    "amount": 115140
+   }
+  },
+  "updatedAt": "2026-10-02T00:00:00Z",
+  "updatedBy": "BNB price guide import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-02"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-02",
+  "expires": null,
+  "id": "D9ST2AT",
+  "primary": "srp",
+  "sku": "D9ST2AT",
+  "source": "Iontech BNB Price Guide – September 2026 update (website data of 2 Oct 2026)",
+  "types": {
+   "dp": {
+    "amount": 146667
+   },
+   "srp": {
+    "amount": 143730
+   }
+  },
+  "updatedAt": "2026-10-02T00:00:00Z",
+  "updatedBy": "BNB price guide import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-02"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-02",
+  "expires": null,
+  "id": "DK0Q0PT",
+  "primary": "srp",
+  "sku": "DK0Q0PT",
+  "source": "Iontech BNB Price Guide – September 2026 update (website data of 2 Oct 2026)",
+  "types": {
+   "dp": {
+    "amount": 83515.45
+   },
+   "srp": {
+    "amount": 92794.95
+   }
+  },
+  "updatedAt": "2026-10-02T00:00:00Z",
+  "updatedBy": "BNB price guide import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-02"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "DR1N0PT",
+  "primary": "order",
+  "sku": "DR1N0PT",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "order": {
+    "amount": 256940
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "DR1N1PT",
+  "primary": "order",
+  "sku": "DR1N1PT",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "order": {
+    "amount": 234540
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "DR1N2PT",
+  "primary": "order",
+  "sku": "DR1N2PT",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "order": {
+    "amount": 263530
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "DR1N5PT",
+  "primary": "order",
+  "sku": "DR1N5PT",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "order": {
+    "amount": 296470
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "DR1N6PT",
+  "primary": "order",
+  "sku": "DR1N6PT",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "order": {
+    "amount": 355760
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-02",
+  "expires": null,
+  "id": "DR5Z9AT",
+  "primary": "srp",
+  "sku": "DR5Z9AT",
+  "source": "Iontech BNB Price Guide – September 2026 update (website data of 2 Oct 2026)",
+  "types": {
+   "dp": {
+    "amount": 81788.29
+   },
+   "srp": {
+    "amount": 90875.88
+   }
+  },
+  "updatedAt": "2026-10-02T00:00:00Z",
+  "updatedBy": "BNB price guide import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-02"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-02",
+  "expires": null,
+  "id": "DR6A0AT",
+  "primary": "srp",
+  "sku": "DR6A0AT",
+  "source": "Iontech BNB Price Guide – September 2026 update (website data of 2 Oct 2026)",
+  "types": {
+   "dp": {
+    "amount": 78846.82
+   },
+   "srp": {
+    "amount": 87607.58
+   }
+  },
+  "updatedAt": "2026-10-02T00:00:00Z",
+  "updatedBy": "BNB price guide import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-02"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-02",
+  "expires": null,
+  "id": "DR6B4AT",
+  "primary": null,
+  "sku": "DR6B4AT",
+  "source": "Iontech BNB Price Guide – September 2026 update (website data of 2 Oct 2026) — order basis, price to be advised",
+  "tba": true,
+  "types": {},
+  "updatedAt": "2026-10-02T00:00:00Z",
+  "updatedBy": "BNB price guide import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-02"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-02",
+  "expires": null,
+  "id": "DR6B5AT",
+  "primary": "srp",
+  "sku": "DR6B5AT",
+  "source": "Iontech BNB Price Guide – September 2026 update (website data of 2 Oct 2026)",
+  "types": {
+   "dp": {
+    "amount": 137620.88
+   },
+   "srp": {
+    "amount": 151602.15
+   }
+  },
+  "updatedAt": "2026-10-02T00:00:00Z",
+  "updatedBy": "BNB price guide import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-02"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-02",
+  "expires": null,
+  "id": "DR6B6AT",
+  "primary": null,
+  "sku": "DR6B6AT",
+  "source": "Iontech BNB Price Guide – September 2026 update (website data of 2 Oct 2026) — order basis, price to be advised",
+  "tba": true,
+  "types": {},
+  "updatedAt": "2026-10-02T00:00:00Z",
+  "updatedBy": "BNB price guide import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-02"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-02",
+  "expires": null,
+  "id": "DR6B7AT",
+  "primary": "srp",
+  "sku": "DR6B7AT",
+  "source": "Iontech BNB Price Guide – September 2026 update (website data of 2 Oct 2026)",
+  "types": {
+   "dp": {
+    "amount": 142460.46
+   },
+   "srp": {
+    "amount": 156979.46
+   }
+  },
+  "updatedAt": "2026-10-02T00:00:00Z",
+  "updatedBy": "BNB price guide import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-02"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "DS3W8AT",
+  "primary": "order",
+  "sku": "DS3W8AT",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "order": {
+    "amount": 250350
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "DS3W9AT",
+  "primary": "order",
+  "sku": "DS3W9AT",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "order": {
+    "amount": 283290
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "DS3X2AT",
+  "primary": "order",
+  "sku": "DS3X2AT",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "order": {
+    "amount": 283290
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "DS3X3AT",
+  "primary": "order",
+  "sku": "DS3X3AT",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "order": {
+    "amount": 237180
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "DS3X4AT",
+  "primary": "order",
+  "sku": "DS3X4AT",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "order": {
+    "amount": 276710
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "DS3X5AT",
+  "primary": "order",
+  "sku": "DS3X5AT",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "order": {
+    "amount": 276710
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "DS3X6AT",
+  "primary": "order",
+  "sku": "DS3X6AT",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "order": {
+    "amount": 237180
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "DS3X7AT",
+  "primary": "order",
+  "sku": "DS3X7AT",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "order": {
+    "amount": 238490
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-02",
+  "expires": null,
+  "id": "DU6R3AT",
+  "primary": "srp",
+  "sku": "DU6R3AT",
+  "source": "Iontech BNB Price Guide – September 2026 update (website data of 2 Oct 2026)",
+  "types": {
+   "dp": {
+    "amount": 89210.95
+   },
+   "srp": {
+    "amount": 99123.27
+   }
+  },
+  "updatedAt": "2026-10-02T00:00:00Z",
+  "updatedBy": "BNB price guide import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-02"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-02",
+  "expires": null,
+  "id": "DU6S4AT",
+  "primary": null,
+  "sku": "DU6S4AT",
+  "source": "Iontech BNB Price Guide – September 2026 update (website data of 2 Oct 2026) — order basis, price to be advised",
+  "tba": true,
+  "types": {},
+  "updatedAt": "2026-10-02T00:00:00Z",
+  "updatedBy": "BNB price guide import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-02"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-02",
+  "expires": null,
+  "id": "DU6S5AT",
+  "primary": null,
+  "sku": "DU6S5AT",
+  "source": "Iontech BNB Price Guide – September 2026 update (website data of 2 Oct 2026) — order basis, price to be advised",
+  "tba": true,
+  "types": {},
+  "updatedAt": "2026-10-02T00:00:00Z",
+  "updatedBy": "BNB price guide import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-02"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-02",
+  "expires": null,
+  "id": "DU6S7AT",
+  "primary": "srp",
+  "sku": "DU6S7AT",
+  "source": "Iontech BNB Price Guide – September 2026 update (website data of 2 Oct 2026)",
+  "types": {
+   "dp": {
+    "amount": 103334.74
+   },
+   "srp": {
+    "amount": 114816.37
+   }
+  },
+  "updatedAt": "2026-10-02T00:00:00Z",
+  "updatedBy": "BNB price guide import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-02"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-02",
+  "expires": null,
+  "id": "DU6S8AT",
+  "primary": null,
+  "sku": "DU6S8AT",
+  "source": "Iontech BNB Price Guide – September 2026 update (website data of 2 Oct 2026) — order basis, price to be advised",
+  "tba": true,
+  "types": {},
+  "updatedAt": "2026-10-02T00:00:00Z",
+  "updatedBy": "BNB price guide import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-02"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-02",
+  "expires": null,
+  "id": "DU6T2AT",
+  "primary": "srp",
+  "sku": "DU6T2AT",
+  "source": "Iontech BNB Price Guide – September 2026 update (website data of 2 Oct 2026)",
+  "types": {
+   "dp": {
+    "amount": 112668.46
+   },
+   "srp": {
+    "amount": 125187.18
+   }
+  },
+  "updatedAt": "2026-10-02T00:00:00Z",
+  "updatedBy": "BNB price guide import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-02"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-02",
+  "expires": null,
+  "id": "DU6T3AT",
+  "primary": null,
+  "sku": "DU6T3AT",
+  "source": "Iontech BNB Price Guide – September 2026 update (website data of 2 Oct 2026) — order basis, price to be advised",
+  "tba": true,
+  "types": {},
+  "updatedAt": "2026-10-02T00:00:00Z",
+  "updatedBy": "BNB price guide import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-02"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-02",
+  "expires": null,
+  "id": "DU6T9AT",
+  "primary": null,
+  "sku": "DU6T9AT",
+  "source": "Iontech BNB Price Guide – September 2026 update (website data of 2 Oct 2026) — order basis, price to be advised",
+  "tba": true,
+  "types": {},
+  "updatedAt": "2026-10-02T00:00:00Z",
+  "updatedBy": "BNB price guide import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-02"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-02",
+  "expires": null,
+  "id": "DU6U0AT",
+  "primary": null,
+  "sku": "DU6U0AT",
+  "source": "Iontech BNB Price Guide – September 2026 update (website data of 2 Oct 2026) — order basis, price to be advised",
+  "tba": true,
+  "types": {},
+  "updatedAt": "2026-10-02T00:00:00Z",
+  "updatedBy": "BNB price guide import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-02"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-02",
+  "expires": null,
+  "id": "DU6U1AT",
+  "primary": null,
+  "sku": "DU6U1AT",
+  "source": "Iontech BNB Price Guide – September 2026 update (website data of 2 Oct 2026) — order basis, price to be advised",
+  "tba": true,
+  "types": {},
+  "updatedAt": "2026-10-02T00:00:00Z",
+  "updatedBy": "BNB price guide import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-02"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-02",
+  "expires": null,
+  "id": "DU6U3AT",
+  "primary": null,
+  "sku": "DU6U3AT",
+  "source": "Iontech BNB Price Guide – September 2026 update (website data of 2 Oct 2026) — order basis, price to be advised",
+  "tba": true,
+  "types": {},
+  "updatedAt": "2026-10-02T00:00:00Z",
+  "updatedBy": "BNB price guide import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-02"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-02",
+  "expires": null,
+  "id": "DU6U4AT",
+  "primary": null,
+  "sku": "DU6U4AT",
+  "source": "Iontech BNB Price Guide – September 2026 update (website data of 2 Oct 2026) — order basis, price to be advised",
+  "tba": true,
+  "types": {},
+  "updatedAt": "2026-10-02T00:00:00Z",
+  "updatedBy": "BNB price guide import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-02"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-02",
+  "expires": null,
+  "id": "DU6U5AT",
+  "primary": null,
+  "sku": "DU6U5AT",
+  "source": "Iontech BNB Price Guide – September 2026 update (website data of 2 Oct 2026) — order basis, price to be advised",
+  "tba": true,
+  "types": {},
+  "updatedAt": "2026-10-02T00:00:00Z",
+  "updatedBy": "BNB price guide import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-02"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-02",
+  "expires": null,
+  "id": "DU6U6AT",
+  "primary": null,
+  "sku": "DU6U6AT",
+  "source": "Iontech BNB Price Guide – September 2026 update (website data of 2 Oct 2026) — order basis, price to be advised",
+  "tba": true,
+  "types": {},
+  "updatedAt": "2026-10-02T00:00:00Z",
+  "updatedBy": "BNB price guide import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-02"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-01",
+  "expires": null,
+  "id": "E03HKPT",
+  "primary": "order",
+  "sku": "E03HKPT",
+  "source": "IONTECH WS & TC price list Oct 2026 (updated 12 Oct)",
+  "types": {
+   "order": {
+    "amount": 204240
+   }
+  },
+  "updatedAt": "2026-10-12T00:00:00Z",
+  "updatedBy": "Initial import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-12"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-02",
+  "expires": null,
+  "id": "E3DL8AT",
+  "primary": null,
+  "sku": "E3DL8AT",
+  "source": "Iontech BNB Price Guide – September 2026 update (website data of 2 Oct 2026) — order basis, price to be advised",
+  "tba": true,
+  "types": {},
+  "updatedAt": "2026-10-02T00:00:00Z",
+  "updatedBy": "BNB price guide import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-02"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-02",
+  "expires": null,
+  "id": "E3DL9AT",
+  "primary": null,
+  "sku": "E3DL9AT",
+  "source": "Iontech BNB Price Guide – September 2026 update (website data of 2 Oct 2026) — order basis, price to be advised",
+  "tba": true,
+  "types": {},
+  "updatedAt": "2026-10-02T00:00:00Z",
+  "updatedBy": "BNB price guide import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-02"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-02",
+  "expires": null,
+  "id": "E3DM0AT",
+  "primary": null,
+  "sku": "E3DM0AT",
+  "source": "Iontech BNB Price Guide – September 2026 update (website data of 2 Oct 2026) — order basis, price to be advised",
+  "tba": true,
+  "types": {},
+  "updatedAt": "2026-10-02T00:00:00Z",
+  "updatedBy": "BNB price guide import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-02"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-02",
+  "expires": null,
+  "id": "E3DM4AT",
+  "primary": null,
+  "sku": "E3DM4AT",
+  "source": "Iontech BNB Price Guide – September 2026 update (website data of 2 Oct 2026) — order basis, price to be advised",
+  "tba": true,
+  "types": {},
+  "updatedAt": "2026-10-02T00:00:00Z",
+  "updatedBy": "BNB price guide import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-02"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-02",
+  "expires": null,
+  "id": "E3DM5AT",
+  "primary": null,
+  "sku": "E3DM5AT",
+  "source": "Iontech BNB Price Guide – September 2026 update (website data of 2 Oct 2026) — order basis, price to be advised",
+  "tba": true,
+  "types": {},
+  "updatedAt": "2026-10-02T00:00:00Z",
+  "updatedBy": "BNB price guide import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-02"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-02",
+  "expires": null,
+  "id": "E3DM6AT",
+  "primary": null,
+  "sku": "E3DM6AT",
+  "source": "Iontech BNB Price Guide – September 2026 update (website data of 2 Oct 2026) — order basis, price to be advised",
+  "tba": true,
+  "types": {},
+  "updatedAt": "2026-10-02T00:00:00Z",
+  "updatedBy": "BNB price guide import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-02"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-02",
+  "expires": null,
+  "id": "E3DM7AT",
+  "primary": null,
+  "sku": "E3DM7AT",
+  "source": "Iontech BNB Price Guide – September 2026 update (website data of 2 Oct 2026) — order basis, price to be advised",
+  "tba": true,
+  "types": {},
+  "updatedAt": "2026-10-02T00:00:00Z",
+  "updatedBy": "BNB price guide import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-02"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-02",
+  "expires": null,
+  "id": "E3DM8AT",
+  "primary": null,
+  "sku": "E3DM8AT",
+  "source": "Iontech BNB Price Guide – September 2026 update (website data of 2 Oct 2026) — order basis, price to be advised",
+  "tba": true,
+  "types": {},
+  "updatedAt": "2026-10-02T00:00:00Z",
+  "updatedBy": "BNB price guide import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-02"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-02",
+  "expires": null,
+  "id": "E3DM9AT",
+  "primary": null,
+  "sku": "E3DM9AT",
+  "source": "Iontech BNB Price Guide – September 2026 update (website data of 2 Oct 2026) — order basis, price to be advised",
+  "tba": true,
+  "types": {},
+  "updatedAt": "2026-10-02T00:00:00Z",
+  "updatedBy": "BNB price guide import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-02"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-02",
+  "expires": null,
+  "id": "E3DN0AT",
+  "primary": null,
+  "sku": "E3DN0AT",
+  "source": "Iontech BNB Price Guide – September 2026 update (website data of 2 Oct 2026) — order basis, price to be advised",
+  "tba": true,
+  "types": {},
+  "updatedAt": "2026-10-02T00:00:00Z",
+  "updatedBy": "BNB price guide import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-02"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-02",
+  "expires": null,
+  "id": "E3DN1AT",
+  "primary": null,
+  "sku": "E3DN1AT",
+  "source": "Iontech BNB Price Guide – September 2026 update (website data of 2 Oct 2026) — order basis, price to be advised",
+  "tba": true,
+  "types": {},
+  "updatedAt": "2026-10-02T00:00:00Z",
+  "updatedBy": "BNB price guide import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-02"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-02",
+  "expires": null,
+  "id": "E3DN3AT",
+  "primary": null,
+  "sku": "E3DN3AT",
+  "source": "Iontech BNB Price Guide – September 2026 update (website data of 2 Oct 2026) — order basis, price to be advised",
+  "tba": true,
+  "types": {},
+  "updatedAt": "2026-10-02T00:00:00Z",
+  "updatedBy": "BNB price guide import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-02"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-02",
+  "expires": null,
+  "id": "E3DN4AT",
+  "primary": null,
+  "sku": "E3DN4AT",
+  "source": "Iontech BNB Price Guide – September 2026 update (website data of 2 Oct 2026) — order basis, price to be advised",
+  "tba": true,
+  "types": {},
+  "updatedAt": "2026-10-02T00:00:00Z",
+  "updatedBy": "BNB price guide import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-02"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-02",
+  "expires": null,
+  "id": "E3DN5AT",
+  "primary": null,
+  "sku": "E3DN5AT",
+  "source": "Iontech BNB Price Guide – September 2026 update (website data of 2 Oct 2026) — order basis, price to be advised",
+  "tba": true,
+  "types": {},
+  "updatedAt": "2026-10-02T00:00:00Z",
+  "updatedBy": "BNB price guide import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-02"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-02",
+  "expires": null,
+  "id": "E3DN6AT",
+  "primary": null,
+  "sku": "E3DN6AT",
+  "source": "Iontech BNB Price Guide – September 2026 update (website data of 2 Oct 2026) — order basis, price to be advised",
+  "tba": true,
+  "types": {},
+  "updatedAt": "2026-10-02T00:00:00Z",
+  "updatedBy": "BNB price guide import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-02"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-02",
+  "expires": null,
+  "id": "E3DN8AT",
+  "primary": null,
+  "sku": "E3DN8AT",
+  "source": "Iontech BNB Price Guide – September 2026 update (website data of 2 Oct 2026) — order basis, price to be advised",
+  "tba": true,
+  "types": {},
+  "updatedAt": "2026-10-02T00:00:00Z",
+  "updatedBy": "BNB price guide import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-02"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-02",
+  "expires": null,
+  "id": "E3DN9AT",
+  "primary": null,
+  "sku": "E3DN9AT",
+  "source": "Iontech BNB Price Guide – September 2026 update (website data of 2 Oct 2026) — order basis, price to be advised",
+  "tba": true,
+  "types": {},
+  "updatedAt": "2026-10-02T00:00:00Z",
+  "updatedBy": "BNB price guide import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-02"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-02",
+  "expires": null,
+  "id": "E3DP0AT",
+  "primary": "srp",
+  "sku": "E3DP0AT",
+  "source": "Iontech BNB Price Guide – September 2026 update (website data of 2 Oct 2026)",
+  "types": {
+   "dp": {
+    "amount": 130232.42
+   },
+   "srp": {
+    "amount": 143392.75
+   }
+  },
+  "updatedAt": "2026-10-02T00:00:00Z",
+  "updatedBy": "BNB price guide import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-02"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-02",
+  "expires": null,
+  "id": "E3DP1AT",
+  "primary": "srp",
+  "sku": "E3DP1AT",
+  "source": "Iontech BNB Price Guide – September 2026 update (website data of 2 Oct 2026)",
+  "types": {
+   "dp": {
+    "amount": 135641.43
+   },
+   "srp": {
+    "amount": 149402.76
+   }
+  },
+  "updatedAt": "2026-10-02T00:00:00Z",
+  "updatedBy": "BNB price guide import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-02"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-02",
+  "expires": null,
+  "id": "E3EV5AT",
+  "primary": "srp",
+  "sku": "E3EV5AT",
+  "source": "Iontech BNB Price Guide – September 2026 update (website data of 2 Oct 2026)",
+  "types": {
+   "dp": {
+    "amount": 98359.58
+   },
+   "srp": {
+    "amount": 107978.48
+   }
+  },
+  "updatedAt": "2026-10-02T00:00:00Z",
+  "updatedBy": "BNB price guide import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-02"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-02",
+  "expires": null,
+  "id": "E3EV6AT",
+  "primary": null,
+  "sku": "E3EV6AT",
+  "source": "Iontech BNB Price Guide – September 2026 update (website data of 2 Oct 2026) — order basis, price to be advised",
+  "tba": true,
+  "types": {},
+  "updatedAt": "2026-10-02T00:00:00Z",
+  "updatedBy": "BNB price guide import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-02"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-02",
+  "expires": null,
+  "id": "E3EV7AT",
+  "primary": null,
+  "sku": "E3EV7AT",
+  "source": "Iontech BNB Price Guide – September 2026 update (website data of 2 Oct 2026) — order basis, price to be advised",
+  "tba": true,
+  "types": {},
+  "updatedAt": "2026-10-02T00:00:00Z",
+  "updatedBy": "BNB price guide import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-02"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-02",
+  "expires": null,
+  "id": "E3EV9AT",
+  "primary": null,
+  "sku": "E3EV9AT",
+  "source": "Iontech BNB Price Guide – September 2026 update (website data of 2 Oct 2026) — order basis, price to be advised",
+  "tba": true,
+  "types": {},
+  "updatedAt": "2026-10-02T00:00:00Z",
+  "updatedBy": "BNB price guide import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-02"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-02",
+  "expires": null,
+  "id": "E3EW0AT",
+  "primary": null,
+  "sku": "E3EW0AT",
+  "source": "Iontech BNB Price Guide – September 2026 update (website data of 2 Oct 2026) — order basis, price to be advised",
+  "tba": true,
+  "types": {},
+  "updatedAt": "2026-10-02T00:00:00Z",
+  "updatedBy": "BNB price guide import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-02"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-02",
+  "expires": null,
+  "id": "E3EW1AT",
+  "primary": null,
+  "sku": "E3EW1AT",
+  "source": "Iontech BNB Price Guide – September 2026 update (website data of 2 Oct 2026) — order basis, price to be advised",
+  "tba": true,
+  "types": {},
+  "updatedAt": "2026-10-02T00:00:00Z",
+  "updatedBy": "BNB price guide import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-02"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-02",
+  "expires": null,
+  "id": "E3EW2AT",
+  "primary": null,
+  "sku": "E3EW2AT",
+  "source": "Iontech BNB Price Guide – September 2026 update (website data of 2 Oct 2026) — order basis, price to be advised",
+  "tba": true,
+  "types": {},
+  "updatedAt": "2026-10-02T00:00:00Z",
+  "updatedBy": "BNB price guide import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-02"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-02",
+  "expires": null,
+  "id": "E3EW3AT",
+  "primary": null,
+  "sku": "E3EW3AT",
+  "source": "Iontech BNB Price Guide – September 2026 update (website data of 2 Oct 2026) — order basis, price to be advised",
+  "tba": true,
+  "types": {},
+  "updatedAt": "2026-10-02T00:00:00Z",
+  "updatedBy": "BNB price guide import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-02"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-02",
+  "expires": null,
+  "id": "E48QXAT",
+  "primary": null,
+  "sku": "E48QXAT",
+  "source": "Iontech BNB Price Guide – September 2026 update (website data of 2 Oct 2026) — order basis, price to be advised",
+  "tba": true,
+  "types": {},
+  "updatedAt": "2026-10-02T00:00:00Z",
+  "updatedBy": "BNB price guide import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-02"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-02",
+  "expires": null,
+  "id": "E48R6AT",
+  "primary": null,
+  "sku": "E48R6AT",
+  "source": "Iontech BNB Price Guide – September 2026 update (website data of 2 Oct 2026) — order basis, price to be advised",
+  "tba": true,
+  "types": {},
+  "updatedAt": "2026-10-02T00:00:00Z",
+  "updatedBy": "BNB price guide import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-02"
+ },
+ {
+  "approved": true,
+  "currency": "PHP",
+  "effective": "2026-10-02",
+  "expires": null,
+  "id": "E88FCAT",
+  "primary": null,
+  "sku": "E88FCAT",
+  "source": "Iontech BNB Price Guide – September 2026 update (website data of 2 Oct 2026) — order basis, price to be advised",
+  "tba": true,
+  "types": {},
+  "updatedAt": "2026-10-02T00:00:00Z",
+  "updatedBy": "BNB price guide import",
+  "vatInclusive": true,
+  "verifiedAt": "2026-10-02"
+ }
+]

@@ -1,0 +1,437 @@
+[
+ {
+  "images": [
+   {
+    "id": "d03a021d6ec39581cc3f945a8ebf1eda",
+    "source": "HP Asset Manager: Thrasher_JetBlack_Coreset_withStand_FrontLeft_M1651493.png",
+    "view": "Front-left"
+   },
+   {
+    "id": "eb53af39235cd7032349432f69738f52",
+    "source": "HP Asset Manager: Thrasher_JetBlack_Coreset_withStand_FrontRight_M1651492.png",
+    "view": "Front-right"
+   },
+   {
+    "id": "244118d4442ac93db0d2686e75745cfb",
+    "source": "HP Asset Manager: Thrasher_JetBlack_Coreset_withStand_FrontFacing_M1651491.png",
+    "view": "Front"
+   },
+   {
+    "id": "5e3c34cfae5f04dd14846957b98354a2",
+    "source": "HP Asset Manager: Thrasher_JetBlack_Coreset_withStand_LeftProfile_M1651490.png",
+    "view": "Left side"
+   }
+  ],
+  "label": "HP Elite t655 Thin Client",
+  "scope": "family",
+  "updatedAt": "2026-10-12T08:20:00Z",
+  "updatedBy": "Ria Nicerio (HP DAM import)",
+  "id": "TC_Elite-t655"
+ },
+ {
+  "images": [
+   {
+    "id": "f5469987479c19dceed98916869e13dc",
+    "source": "HP Asset Manager: HP_Elite_t660_Thin_Client_JetBlack_Coreset_WhiteBG_FrontFacing_Sup_M2920124.png",
+    "view": "Front"
+   },
+   {
+    "id": "b02d27032a5195f5b882eff60134e5b9",
+    "source": "HP Asset Manager: HP_EliteDesk_t660_G1_Wolf_Security_Desktop_Thin_Client_JetBlack_Coreset_WhiteBG_withStand_FrontLeft_M2820769.png",
+    "view": "Front-left"
+   },
+   {
+    "id": "fb3de3ffa84d782933cb7f71acd581ce",
+    "source": "HP Asset Manager: HP_EliteDesk_t660_G1_Wolf_Security_Desktop_Thin_Client_JetBlack_Coreset_WhiteBG_withStand_FrontRight_M2822037.png",
+    "view": "Front-right"
+   },
+   {
+    "id": "2d30c8c3420effdce482c0ea5d42fe1c",
+    "source": "HP Asset Manager: HP_Elite_t660_Thin_Client_JetBlack_Coreset_WhiteBG_withStand_Rear_HDMI_Sup_M2920134.png",
+    "view": "Rear"
+   }
+  ],
+  "label": "HP Elite t660 Thin Client",
+  "scope": "family",
+  "updatedAt": "2026-10-12T08:20:00Z",
+  "updatedBy": "Ria Nicerio (HP DAM import)",
+  "id": "TC_Elite-t660"
+ },
+ {
+  "images": [
+   {
+    "id": "ad9e7a244fd696bb8f5217801fed8419",
+    "source": "HP Asset Manager: Puffin_HP_Elite_t755_Thin_Client_BlackLicorice_Vertical_OnStand_CoreSet_WhiteBG_FrontLeft_M1612522.png",
+    "view": "Front-left"
+   },
+   {
+    "id": "01842134a43106f8fc9f77fa5db734e3",
+    "source": "HP Asset Manager: Puffin_HP_Elite_t755_Thin_Client_BlackLicorice_Vertical_OnStand_CoreSet_WhiteBG_FrontRight_M1612523.png",
+    "view": "Front-right"
+   },
+   {
+    "id": "cf280c4eeb0b15bf5248224af0eb0058",
+    "source": "HP Asset Manager: Puffin_HP_Elite_t755_Thin_Client_BlackLicorice_Vertical_OnStand_CoreSet_WhiteBG_Front_M1612520.png",
+    "view": "Front"
+   },
+   {
+    "id": "0dae25cdf49a1675453632e3ebc09f5c",
+    "source": "HP Asset Manager: Puffin_HP_Elite_t755_Thin_Client_BlackLicorice_Vertical_OnStand_CoreSet_WhiteBG_Rear_M1612521.png",
+    "view": "Rear"
+   }
+  ],
+  "label": "HP Elite t755 Thin Client",
+  "scope": "family",
+  "updatedAt": "2026-10-12T08:20:00Z",
+  "updatedBy": "Ria Nicerio (HP DAM import)",
+  "id": "TC_Elite-t755"
+ },
+ {
+  "images": [
+   {
+    "id": "abc9b3d43ac31f0a2d6ba246be80f4da",
+    "source": "HP Asset Manager: 04_Waxwing_BlackLicorice_Catalog_TransparentBG_withStand_FrontLeft_4849830.png",
+    "view": "Front-left"
+   },
+   {
+    "id": "fc844593800a22f728b57d07a4232ef0",
+    "source": "HP Asset Manager: 03_Waxwing_BlackLicorice_Catalog_TransparentBG_withStand_FrontRight_4849724.png",
+    "view": "Front-right"
+   },
+   {
+    "id": "37eda67fb861d9b89af91ddebb55cf83",
+    "source": "HP Asset Manager: 01_Waxwing_BlackLicorice_Catalog_TransparentBG_withStand_Front_4849723.png",
+    "view": "Front"
+   },
+   {
+    "id": "9e7d1891ce21c09fd9958139253fa027",
+    "source": "HP Asset Manager: Waxwing_BlackLicorice_Coreset_withStand_Rear_4851307.png",
+    "view": "Rear"
+   }
+  ],
+  "label": "HP ProDesk 5 G1i Thin Client",
+  "scope": "family",
+  "updatedAt": "2026-10-12T08:20:00Z",
+  "updatedBy": "Ria Nicerio (HP DAM import)",
+  "id": "TC_ProDesk-5_G1i"
+ },
+ {
+  "images": [
+   {
+    "id": "286bb3f2285d8c37e3af25b58fc1eb5c",
+    "source": "HP Asset Manager: HP_Z1_Tower_G1i_Spices_TWR_Desktop_JetBlack_ODD_WhiteBG_FrontLeft_M2969461.png",
+    "view": "Front-left"
+   },
+   {
+    "id": "684e7f40e827958ab290df0dd1695196",
+    "source": "HP Asset Manager: HP_Z1_Tower_G1i_Spices_TWR_Desktop_JetBlack_ODD_WhiteBG_FrontRight_M2969466.png",
+    "view": "Front-right"
+   },
+   {
+    "id": "cad8c8b782b527b151540e4764d96b15",
+    "source": "HP Asset Manager: HP_Z1_Tower_G1i_Spices_TWR_Desktop_JetBlack_ODD_WhiteBG_Front_M2969458.png",
+    "view": "Front"
+   },
+   {
+    "id": "cd42a4ba9aed5c17f2c0246c580ca4cb",
+    "source": "HP Asset Manager: HP_Z1_Tower_G1i_Spices_TWR_Desktop_JetBlack_ODD_WhiteBG_Rear_M2969456.png",
+    "view": "Rear"
+   }
+  ],
+  "label": "HP Z1 Tower G1i",
+  "scope": "family",
+  "updatedAt": "2026-10-12T08:20:00Z",
+  "updatedBy": "Ria Nicerio (HP DAM import)",
+  "id": "Z1-Tower_G1i"
+ },
+ {
+  "images": [
+   {
+    "id": "d18d57b7e618d660c74a903b7f8feed7",
+    "source": "HP Asset Manager: HP_Z2_Mini_G1a_JetBlack_Vertical_Catalog_WhiteBG_FrontLeft_M2953300.png",
+    "view": "Front-left"
+   },
+   {
+    "id": "c89aa76ea49cc2a133419ef1adbc1f21",
+    "source": "HP Asset Manager: HP_Z2_Mini_G1a_JetBlack_Vertical_Catalog_WhiteBG_FrontRight_M2953294.png",
+    "view": "Front-right"
+   },
+   {
+    "id": "6ec33df988d66176bf4aed08949d13d2",
+    "source": "HP Asset Manager: HP_Z2_Mini_G1a_JetBlack_Horizontal_Catalog_WhiteBG_FrontLeft_M2953309.png",
+    "view": "Horizontal, front-left"
+   },
+   {
+    "id": "9ded54f8834f95f9e8f0d79daef43d44",
+    "source": "HP Asset Manager: HP_Z2_Mini_G1a_JetBlack_Vertical_Catalog_WhiteBG_Rear_M2953297.png",
+    "view": "Rear"
+   }
+  ],
+  "label": "HP Z2 Mini G1a",
+  "scope": "family",
+  "updatedAt": "2026-10-12T08:20:00Z",
+  "updatedBy": "Ria Nicerio (HP DAM import)",
+  "id": "Z2-Mini_G1a"
+ },
+ {
+  "images": [
+   {
+    "id": "06866ece55807d2d46f87d6e19005c2b",
+    "source": "HP Asset Manager: HP_Z2_Tower_G1i_TWR_PV_Desktop_JetBlack_ODD_WhiteBG_FrontLeft_M2969530.png",
+    "view": "Front-left"
+   },
+   {
+    "id": "7b9156e6d171050f64a41920ae0a0f95",
+    "source": "HP Asset Manager: HP_Z2_Tower_G1i_TWR_PV_Desktop_JetBlack_ODD_WhiteBG_FrontRight_M2969526.png",
+    "view": "Front-right"
+   },
+   {
+    "id": "43bbcba33e131eb0e529b8c31f9cef83",
+    "source": "HP Asset Manager: HP_Z2_Tower_G1i_TWR_PV_Desktop_JetBlack_ODD_WhiteBG_Front_M2969542.png",
+    "view": "Front"
+   },
+   {
+    "id": "f55485a1e55bf88923b073cf2ed0e458",
+    "source": "HP Asset Manager: HP_Z2_Tower_G1i_TWR_PV_Desktop_JetBlack_ODD_WhiteBG_Rear_M2969529.png",
+    "view": "Rear"
+   }
+  ],
+  "label": "HP Z2 Tower G1i",
+  "scope": "family",
+  "updatedAt": "2026-10-12T08:20:00Z",
+  "updatedBy": "Ria Nicerio (HP DAM import)",
+  "id": "Z2-Tower_G1i"
+ },
+ {
+  "images": [
+   {
+    "id": "ff1f749b467c8b3a9e4a161791efb3c8",
+    "source": "HP Asset Manager: Zbook_8_Machu14W_DIS_WLAN_Catalog_WhiteBG_FrontLeft_3525531.png",
+    "view": "Front-left"
+   },
+   {
+    "id": "87ecdc3bfb5f93d96426594f0bbda7d8",
+    "source": "HP Asset Manager: Zbook_8_Machu14W_DIS_WLAN_Catalog_WhtieBG_FrontRight_3527228.png",
+    "view": "Front-right"
+   },
+   {
+    "id": "4601f06fcc28b95c1db791cd5f3f8511",
+    "source": "HP Asset Manager: Zbook_8_Machu14W_DIS_WLAN_Catalog_WhiteBG_Front_3530462.png",
+    "view": "Front"
+   },
+   {
+    "id": "0bdcbe850d2f017359b41560ca5f077e",
+    "source": "HP Asset Manager: Zbook_8_Machu14W_WWAN_Catalog_WhiteBG_RearLeft_3441209.png",
+    "view": "Rear-left"
+   }
+  ],
+  "label": "HP ZBook 8 G1i 14\"",
+  "scope": "family",
+  "updatedAt": "2026-10-12T08:20:00Z",
+  "updatedBy": "Ria Nicerio (HP DAM import)",
+  "id": "ZBook-8_G1i_14in"
+ },
+ {
+  "images": [
+   {
+    "id": "4f819758040b1daf9165647fc6702ab2",
+    "source": "HP Asset Manager: HP_ZBook_Lampas_14_G2a_WLAN_FPR_NonRJ45_NonAI_MeteorSilver_DS_Catalog_FrontLeft_6644050.png",
+    "view": "Front-left"
+   },
+   {
+    "id": "ec6fadd8ea8520353d4ee8b2e6e47b7f",
+    "source": "HP Asset Manager: HP_ZBook_Lampas_14_G2a_WLAN_FPR_NonRJ45_NonAI_MeteorSilver_DS_Catalog_FrontRight_6643451.png",
+    "view": "Front-right"
+   },
+   {
+    "id": "17c615948be466ae5a003919602e7b51",
+    "source": "HP Asset Manager: HP_ZBook_Lampas_14_G2a_WLAN_FPR_NonRJ45_NonAI_MeteorSilver_DS_Catalog_Front_6644000.png",
+    "view": "Front"
+   },
+   {
+    "id": "654a12626ac8018cb6547de10bda2717",
+    "source": "HP Asset Manager: HP_ZBook_Lampas_14_G2_WLAN_FPR_RJ45_NonAI_MeteorSilver_Catalog_RearLeft_6250903.png",
+    "view": "Rear-left"
+   }
+  ],
+  "label": "HP ZBook 8 G2a 14\"",
+  "scope": "family",
+  "updatedAt": "2026-10-12T08:20:00Z",
+  "updatedBy": "Ria Nicerio (HP DAM import)",
+  "id": "ZBook-8_G2a_14in"
+ },
+ {
+  "images": [
+   {
+    "id": "2f35ee310a90f9d0cf1e94ae7cf8f60c",
+    "source": "HP Asset Manager: HP_ZBook_Lampus_16_G2a_WLAN_NonFPR_RJ45_NonAI_MeteorSilver_DS_Catalog_FrontLeft_6917302.png",
+    "view": "Front-left"
+   },
+   {
+    "id": "812b6131ccb494ca547d160c8c42c06b",
+    "source": "HP Asset Manager: HP_ZBook_Lampus_16_G2a_WLAN_NonFPR_RJ45_NonAI_MeteorSilver_DS_Catalog_FrontRight_6917351.png",
+    "view": "Front-right"
+   },
+   {
+    "id": "7144ad1ee0af15e6db22f3c45af422f7",
+    "source": "HP Asset Manager: HP_ZBook_Lampus_16_G2a_WLAN_NonFPR_RJ45_NonAI_MeteorSilver_DS_Catalog_Front_6917303.png",
+    "view": "Front"
+   },
+   {
+    "id": "4f64723929196c6ef9880766e6f82c84",
+    "source": "HP Asset Manager: HP_ZBook_Lampas_16_G2_WLAN_NonFPR_RJ45_NonAI_MeteorSilver_Catalog_RearLeft_6340214.png",
+    "view": "Rear-left"
+   }
+  ],
+  "label": "HP ZBook 8 G2a 16\"",
+  "scope": "family",
+  "updatedAt": "2026-10-12T08:20:00Z",
+  "updatedBy": "Ria Nicerio (HP DAM import)",
+  "id": "ZBook-8_G2a_16in"
+ },
+ {
+  "images": [
+   {
+    "id": "8fe26441d3bf3a247606f913eb7eef5b",
+    "source": "HP Asset Manager: HP_ZBook_Merino_14_G2i_WLAN_FPR_NonRJ45_NonAI_MeteorSilver_DS_Catalog_FrontLeft_6642906.png",
+    "view": "Front-left"
+   },
+   {
+    "id": "ead29025647b4a3924d4f5c5ae778d6b",
+    "source": "HP Asset Manager: HP_ZBook_Merino_14_G2i_WLAN_FPR_NonRJ45_NonAI_MeteorSilver_DS_Catalog_FrontRight_6642907.png",
+    "view": "Front-right"
+   },
+   {
+    "id": "d8d7ddd776536526237d06e8777548e2",
+    "source": "HP Asset Manager: HP_ZBook_Merino_14_G2i_WLAN_FPR_NonRJ45_NonAI_MeteorSilver_DS_Catalog_Front_6642960.png",
+    "view": "Front"
+   },
+   {
+    "id": "29621d9848775108807a138c2f26b99c",
+    "source": "HP Asset Manager: HP_ZBook_Merino_14_G2_WLAN_FPR_NonRJ45_NonAI_MeteorSilver_Catalog_RearLeft_6265556.png",
+    "view": "Rear-left"
+   }
+  ],
+  "label": "HP ZBook 8 G2i 14\"",
+  "scope": "family",
+  "updatedAt": "2026-10-12T08:20:00Z",
+  "updatedBy": "Ria Nicerio (HP DAM import)",
+  "id": "ZBook-8_G2i_14in"
+ },
+ {
+  "images": [
+   {
+    "id": "44ceabe829b8d2552e8c363d6a4f2a80",
+    "source": "HP Asset Manager: HP_ZBook_Merino_16_G2i_WLAN_NonFPR_RJ45_NonAI_MeteorSilver_DS_Catalog_FrontLeft_6642911.png",
+    "view": "Front-left"
+   },
+   {
+    "id": "2bb4c0ec72c9e96a61172f78dd693bda",
+    "source": "HP Asset Manager: HP_ZBook_Merino_16_G2i_WLAN_NonFPR_RJ45_NonAI_MeteorSilver_DS_Catalog_FrontRight_6642963.png",
+    "view": "Front-right"
+   },
+   {
+    "id": "0ff713e881474c1136c604d6a455f5fa",
+    "source": "HP Asset Manager: HP_ZBook_Merino_16_G2i_WLAN_NonFPR_RJ45_NonAI_MeteorSilver_DS_Catalog_Front_6643008.png",
+    "view": "Front"
+   },
+   {
+    "id": "bcb82f41d8016f62a73cc44a15c7f4f3",
+    "source": "HP Asset Manager: HP_ZBook_Merino_16_G2_WLAN_NonFPR_RJ45_NonAI_MeteorSilver_Catalog_RearLeft_6251462.png",
+    "view": "Rear-left"
+   }
+  ],
+  "label": "HP ZBook 8 G2i 16\"",
+  "scope": "family",
+  "updatedAt": "2026-10-12T08:20:00Z",
+  "updatedBy": "Ria Nicerio (HP DAM import)",
+  "id": "ZBook-8_G2i_16in"
+ },
+ {
+  "images": [
+   {
+    "id": "da12d83b70b9247175e17bef7a9bed0b",
+    "source": "HP Asset Manager: HP_ZBook_Ultra_G1a_14_Mobile_Workstation_PC_AMD_MeteorSilver_AHS_Catalog_WhiteBG_FrontLeftOpen_V2_M2921717_4028657.png",
+    "view": "Front-left, open"
+   },
+   {
+    "id": "6df31fd841cdcf5bd8ba19273e17c2b1",
+    "source": "HP Asset Manager: HP_ZBook_Ultra_G1a_14_Mobile_Workstation_PC_AMD_MeteorSilver_Catalog_WhiteBG_RearLeft_V2_M2921705_4025891.png",
+    "view": "Rear-left"
+   },
+   {
+    "id": "e840de7e88af54fda1e68cd70ea527f9",
+    "source": "HP Asset Manager: HP_ZBook_Ultra_G1a_14_Mobile_Workstation_PC_AMD_MeteorSilver_Catalog_WhiteBG_LeftProfileClosed_V2_M2921707_4028556.png",
+    "view": "Left side, closed"
+   },
+   {
+    "id": "6b627a27d5b49e1bed418874511c3b1b",
+    "source": "HP Asset Manager: HP_ZBook_Ultra_G1a_14_Mobile_Workstation_PC_AMD_MeteorSilver_Catalog_WhiteBG_Rear_V2_M2921706_4028557.png",
+    "view": "Rear"
+   }
+  ],
+  "label": "HP ZBook Ultra G1a 14\"",
+  "scope": "family",
+  "updatedAt": "2026-10-12T08:20:00Z",
+  "updatedBy": "Ria Nicerio (HP DAM import)",
+  "id": "ZBook-Ultra_G1a_14in"
+ },
+ {
+  "images": [
+   {
+    "id": "c12aeb4ca883dfc46b4150ce16719086",
+    "source": "HP Asset Manager: HP_ZBook_X_G1i_16_in_Mobile_Workstation_PC_WKS_MeteorSilver_T_IRcam_nonODD_FPR_SCREEN_CoreSet_WhiteBG_FrontLeft_M2967490.png",
+    "view": "Front-left"
+   },
+   {
+    "id": "c97566d2b35bc329acd4e56c66763ea5",
+    "source": "HP Asset Manager: HP_ZBook_X_G1i_16_in_Mobile_Workstation_PC_WKS_MeteorSilver_T_IRcam_nonODD_FPR_SCREEN_CoreSet_WhiteBG_FrontRight_M2967492.png",
+    "view": "Front-right"
+   },
+   {
+    "id": "b31a56023ea43ead52facba49493f5a3",
+    "source": "HP Asset Manager: HP_ZBook_X_G1i_16_in_Mobile_Workstation_PC_WKS_MeteorSilver_T_IRcam_nonODD_FPR_SCREEN_CoreSet_WhiteBG_FrontOpen_M2967494.png",
+    "view": "Front, open"
+   },
+   {
+    "id": "8513d032e9cd3570aa816f4cd1113fba",
+    "source": "HP Asset Manager: HP_ZBook_X_G1i_16_in_Mobile_Workstation_PC_WKS_MeteorSilver_nonODD_FPR_CoreSet_WhiteBG_RearLeft_M2967491.png",
+    "view": "Rear-left"
+   }
+  ],
+  "label": "HP ZBook X G1i 16\"",
+  "scope": "family",
+  "updatedAt": "2026-10-12T08:20:00Z",
+  "updatedBy": "Ria Nicerio (HP DAM import)",
+  "id": "ZBook-X_G1i_16in"
+ },
+ {
+  "images": [
+   {
+    "id": "5be1e08fc108dacc2bc278e83edcec4d",
+    "source": "HP Asset Manager: ZBook_XG2i_16_MeteorSilver_NT_5M_IRcam_ALS_FPR_WLAN_BacklitKB_CoreSet_FrontLeftOpen_DS_6504502.png",
+    "view": "Front-left, open"
+   },
+   {
+    "id": "fe62c6f798dabb82d32e854b32c28619",
+    "source": "HP Asset Manager: ZBook_XG2i_16_MeteorSilver_NT_5M_IRcam_ALS_FPR_WLAN_BacklitKB_CoreSet_FrontRightOpen_DS_6504709.png",
+    "view": "Front-right, open"
+   },
+   {
+    "id": "33c88d21d9284127e727a3506613ec55",
+    "source": "HP Asset Manager: ZBook_XG2i_16_MeteorSilver_NT_5M_IRcam_ALS_FPR_WLAN_BacklitKB_CoreSet_FrontOpen_DS_6504707.png",
+    "view": "Front, open"
+   },
+   {
+    "id": "0cba7960f5495d2bb0f645eb1dbeb754",
+    "source": "HP Asset Manager: ZBook_XG2i_16_MeteorSilver_NT_5M_IRcam_ALS_FPR_WLAN_BacklitKB_CoreSet_RearLeft_6493312.png",
+    "view": "Rear-left"
+   }
+  ],
+  "label": "HP ZBook X G2i 16\"",
+  "scope": "family",
+  "updatedAt": "2026-10-12T08:20:00Z",
+  "updatedBy": "Ria Nicerio (HP DAM import)",
+  "id": "ZBook-X_G2i_16in"
+ }
+]
